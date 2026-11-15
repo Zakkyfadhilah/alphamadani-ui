@@ -1,1 +1,464 @@
-[]
+{
+  "summary": {
+    "totalModalAwal": 10000000,
+    "totalNilaiPortofolio": 10185000,
+    "modalTerpakai": 4536400,
+    "sisaKasBebas": 5648600,
+    "totalFloatingPnLRupiah": 185000,
+    "totalFloatingPnLPct": 4.08,
+    "jumlahPosisiAktif": 3,
+    "jumlahClosedTrades": 12,
+    "jumlahKarantina": 2
+  },
+  "activePositions": [
+    {
+      "id": 1,
+      "ticker": "SMMT",
+      "tanggal": "2026-11-13",
+      "status": "ACTIVE",
+      "entryPrice": 2800,
+      "currentPrice": 2890,
+      "stopLoss": 2604,
+      "takeProfit1": 3152,
+      "pnlPct": 3.21,
+      "pnlRupiah": 45000,
+      "lot": 5,
+      "modalSaham": 1400000,
+      "tranche_hari": 1
+    },
+    {
+      "id": 2,
+      "ticker": "BEEF",
+      "tanggal": "2026-11-13",
+      "status": "ACTIVE",
+      "entryPrice": 452,
+      "currentPrice": 482,
+      "stopLoss": 420,
+      "takeProfit1": 508,
+      "pnlPct": 6.64,
+      "pnlRupiah": 96000,
+      "lot": 32,
+      "modalSaham": 1446400,
+      "tranche_hari": 1
+    },
+    {
+      "id": 3,
+      "ticker": "BELI",
+      "tanggal": "2026-11-13",
+      "status": "ACTIVE",
+      "entryPrice": 260,
+      "currentPrice": 268,
+      "stopLoss": 242,
+      "takeProfit1": 292,
+      "pnlPct": 3.08,
+      "pnlRupiah": 44000,
+      "lot": 65,
+      "modalSaham": 1690000,
+      "tranche_hari": 2
+    }
+  ],
+  "closedPositions": [
+    {
+      "id": 1,
+      "ticker": "KRYA",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 70.0,
+      "stop_loss": 65.1,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 65.10 | Exit Aktual: Rp 65.00",
+      "harga_exit": 65.0,
+      "pnl_rupiah": -25810.75,
+      "jam_exit": "05:20:57 WIB",
+      "waktu_exit": "2026-09-01 05:20:57.388340",
+      "data_json": {
+        "ticker": "KRYA",
+        "trading_plan": {
+          "entry_price": 70.0,
+          "take_profit_1": 82.74,
+          "take_profit_2": 87.15,
+          "take_profit_3": 93.45,
+          "stop_loss": 65.1,
+          "alasan": "Stop Loss tersentuh. SL: Rp 65.10 | Exit Aktual: Rp 65.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 49,
+          "modal_dibutuhkan_rp": 343000.0,
+          "porsi_harian_pct": 17.43,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 2,
+      "ticker": "CASH",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 246.0,
+      "stop_loss": 228.78,
+      "status": "CLOSED_HISTORICAL",
+      "alasan": "Time Stop Exit (Arsip Historis Periode Agustus 2026)",
+      "harga_exit": 167.0,
+      "pnl_rupiah": 0.0,
+      "jam_exit": "16:00:00 WIB",
+      "waktu_exit": "2026-09-08 16:00:00",
+      "data_json": {
+        "ticker": "CASH",
+        "trading_plan": {
+          "entry_price": 246.0,
+          "take_profit_1": 290.77,
+          "take_profit_2": 306.27,
+          "take_profit_3": 328.41,
+          "stop_loss": 228.78,
+          "alasan": ""
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 13,
+          "modal_dibutuhkan_rp": 319800.0,
+          "porsi_harian_pct": 16.67,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 3,
+      "ticker": "VKTR",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 965.0,
+      "stop_loss": 897.45,
+      "status": "CLOSED_HISTORICAL",
+      "alasan": "Time Stop Exit (Arsip Historis Periode Agustus 2026)",
+      "harga_exit": 326.0,
+      "pnl_rupiah": 0.0,
+      "jam_exit": "16:00:00 WIB",
+      "waktu_exit": "2026-09-08 16:00:00",
+      "data_json": {
+        "ticker": "VKTR",
+        "trading_plan": {
+          "entry_price": 965.0,
+          "take_profit_1": 1140.63,
+          "take_profit_2": 1201.42,
+          "take_profit_3": 1288.27,
+          "stop_loss": 897.45,
+          "alasan": ""
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 3,
+          "modal_dibutuhkan_rp": 289500.0,
+          "porsi_harian_pct": 16.61,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 4,
+      "ticker": "KETR",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 860.0,
+      "stop_loss": 799.8,
+      "status": "CLOSED_HISTORICAL",
+      "alasan": "Time Stop Exit (Arsip Historis Periode Agustus 2026)",
+      "harga_exit": 535.0,
+      "pnl_rupiah": 0.0,
+      "jam_exit": "16:00:00 WIB",
+      "waktu_exit": "2026-09-08 16:00:00",
+      "data_json": {
+        "ticker": "KETR",
+        "trading_plan": {
+          "entry_price": 860.0,
+          "take_profit_1": 1016.52,
+          "take_profit_2": 1070.7,
+          "take_profit_3": 1148.1,
+          "stop_loss": 799.8,
+          "alasan": ""
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 3,
+          "modal_dibutuhkan_rp": 258000.0,
+          "porsi_harian_pct": 16.51,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 5,
+      "ticker": "PPGL",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 322.0,
+      "stop_loss": 299.46,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 299.46 | Exit Aktual: Rp 292.00",
+      "harga_exit": 292.0,
+      "pnl_rupiah": -31213.0,
+      "jam_exit": "12:02:21 WIB",
+      "waktu_exit": "2026-08-31 12:02:21.621090",
+      "data_json": {
+        "ticker": "PPGL",
+        "trading_plan": {
+          "entry_price": 322.0,
+          "take_profit_1": 380.6,
+          "take_profit_2": 400.89,
+          "take_profit_3": 429.87,
+          "stop_loss": 299.46,
+          "alasan": "Stop Loss tersentuh. SL: Rp 299.46 | Exit Aktual: Rp 292.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 10,
+          "modal_dibutuhkan_rp": 322000.0,
+          "porsi_harian_pct": 16.41,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 6,
+      "ticker": "LABA",
+      "tanggal": "2026-08-30",
+      "waktu_entry": "2026-08-30",
+      "harga_entry": 129.0,
+      "stop_loss": 119.97,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 119.97 | Exit Aktual: Rp 118.00",
+      "harga_exit": 118.0,
+      "pnl_rupiah": -28721.25,
+      "jam_exit": "00:10:42 WIB",
+      "waktu_exit": "2026-09-02 00:10:42.294543",
+      "data_json": {
+        "ticker": "LABA",
+        "trading_plan": {
+          "entry_price": 129.0,
+          "take_profit_1": 152.48,
+          "take_profit_2": 160.61,
+          "take_profit_3": 172.22,
+          "stop_loss": 119.97,
+          "alasan": "Stop Loss tersentuh. SL: Rp 119.97 | Exit Aktual: Rp 118.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 25,
+          "modal_dibutuhkan_rp": 322500.0,
+          "porsi_harian_pct": 16.36,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 13,
+      "ticker": "LEAD",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 118.0,
+      "stop_loss": 109.74,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 109.74 | Exit Aktual: Rp 99.00",
+      "harga_exit": 99.0,
+      "pnl_rupiah": -56331.05,
+      "jam_exit": "00:30:25 WIB",
+      "waktu_exit": "2026-09-02 00:30:25.869985",
+      "data_json": {
+        "ticker": "LEAD",
+        "trading_plan": {
+          "entry_price": 118.0,
+          "take_profit_1": 139.48,
+          "take_profit_2": 146.91,
+          "take_profit_3": 157.53,
+          "stop_loss": 109.74,
+          "alasan": "Stop Loss tersentuh. SL: Rp 109.74 | Exit Aktual: Rp 99.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 29,
+          "modal_dibutuhkan_rp": 342200.0,
+          "porsi_harian_pct": 17.3,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 14,
+      "ticker": "IBOS",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 95.0,
+      "stop_loss": 88.35,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 88.35 | Exit Aktual: Rp 86.00",
+      "harga_exit": 86.0,
+      "pnl_rupiah": -32751.25,
+      "jam_exit": "00:30:21 WIB",
+      "waktu_exit": "2026-09-02 00:30:21.994401",
+      "data_json": {
+        "ticker": "IBOS",
+        "trading_plan": {
+          "entry_price": 95.0,
+          "take_profit_1": 112.29,
+          "take_profit_2": 118.28,
+          "take_profit_3": 126.83,
+          "stop_loss": 88.35,
+          "alasan": "Stop Loss tersentuh. SL: Rp 88.35 | Exit Aktual: Rp 86.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 35,
+          "modal_dibutuhkan_rp": 332500.0,
+          "porsi_harian_pct": 16.9,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 15,
+      "ticker": "TRIN",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 338.0,
+      "stop_loss": 314.34,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 314.34 | Exit Aktual: Rp 302.00",
+      "harga_exit": 302.0,
+      "pnl_rupiah": -33535.8,
+      "jam_exit": "00:30:31 WIB",
+      "waktu_exit": "2026-09-02 00:30:31.482269",
+      "data_json": {
+        "ticker": "TRIN",
+        "trading_plan": {
+          "entry_price": 338.0,
+          "take_profit_1": 399.52,
+          "take_profit_2": 420.81,
+          "take_profit_3": 451.23,
+          "stop_loss": 314.34,
+          "alasan": "Stop Loss tersentuh. SL: Rp 314.34 | Exit Aktual: Rp 302.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 9,
+          "modal_dibutuhkan_rp": 304200.0,
+          "porsi_harian_pct": 16.77,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 16,
+      "ticker": "ARCI",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 1345.0,
+      "stop_loss": 1250.85,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 1,250.85 | Exit Aktual: Rp 1,250.00",
+      "harga_exit": 1250.0,
+      "pnl_rupiah": -20028.5,
+      "jam_exit": "02:42:17 WIB",
+      "waktu_exit": "2026-09-02 02:42:17.260936",
+      "data_json": {
+        "ticker": "ARCI",
+        "trading_plan": {
+          "entry_price": 1345.0,
+          "take_profit_1": 1589.79,
+          "take_profit_2": 1674.53,
+          "take_profit_3": 1795.58,
+          "stop_loss": 1250.85,
+          "alasan": "Stop Loss tersentuh. SL: Rp 1,250.85 | Exit Aktual: Rp 1,250.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 2,
+          "modal_dibutuhkan_rp": 269000.0,
+          "porsi_harian_pct": 16.45,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 17,
+      "ticker": "LIFE",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 9925.0,
+      "stop_loss": 9230.25,
+      "status": "STOP_LOSS",
+      "alasan": "Stop Loss tersentuh. SL: Rp 9,230.25 | Exit Aktual: Rp 8,500.00",
+      "harga_exit": 8500.0,
+      "pnl_rupiah": -146113.75,
+      "jam_exit": "00:30:27 WIB",
+      "waktu_exit": "2026-09-02 00:30:27.756102",
+      "data_json": {
+        "ticker": "LIFE",
+        "trading_plan": {
+          "entry_price": 9925.0,
+          "take_profit_1": 11731.35,
+          "take_profit_2": 12356.62,
+          "take_profit_3": 13249.88,
+          "stop_loss": 9230.25,
+          "alasan": "Stop Loss tersentuh. SL: Rp 9,230.25 | Exit Aktual: Rp 8,500.00"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 1,
+          "modal_dibutuhkan_rp": 992500.0,
+          "porsi_harian_pct": 16.3,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    },
+    {
+      "id": 18,
+      "ticker": "PYFA",
+      "tanggal": "2026-08-31",
+      "waktu_entry": "2026-08-31",
+      "harga_entry": 256.0,
+      "stop_loss": 238.08,
+      "status": "CLOSED_HISTORICAL",
+      "alasan": "Time Stop Exit (Arsip Historis Periode Agustus 2026)",
+      "harga_exit": 127.0,
+      "pnl_rupiah": 0.0,
+      "jam_exit": "16:00:00 WIB",
+      "waktu_exit": "2026-09-09 16:00:00",
+      "data_json": {
+        "ticker": "PYFA",
+        "trading_plan": {
+          "entry_price": 256.0,
+          "take_profit_1": 302.59,
+          "take_profit_2": 318.72,
+          "take_profit_3": 341.76,
+          "stop_loss": 238.08,
+          "alasan": "Sinyal Momentum Aktif Terpilih Portofolio"
+        },
+        "alokasi_dana": {
+          "rekomendasi_lot": 12,
+          "modal_dibutuhkan_rp": 307200.0,
+          "porsi_harian_pct": 16.3,
+          "tranche_hari": 1
+        },
+        "sektor": "General"
+      }
+    }
+  ],
+  "karantinaList": [
+    {
+      "id": 1,
+      "ticker": "KRYA",
+      "alasan": "Terkena Stop Loss -2.8% pada 01 Sep 2026, dikarantina 14 hari.",
+      "tanggalMulai": "2026-09-01",
+      "tanggalSelesai": "2026-09-15",
+      "status": "DALAM_KARANTINA"
+    },
+    {
+      "id": 2,
+      "ticker": "PPGL",
+      "alasan": "Terkena Stop Loss -3.1% pada 31 Agu 2026, dikarantina 14 hari.",
+      "tanggalMulai": "2026-08-31",
+      "tanggalSelesai": "2026-09-14",
+      "status": "DALAM_KARANTINA"
+    }
+  ]
+}
