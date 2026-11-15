@@ -6,11 +6,11 @@
     "ticker": "FORU",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 79.0,
-    "tp1_price": 905,
-    "tp1_pct": 1045.03,
+    "tp1_price": 89,
+    "tp1_pct": 12.6,
     "sl_price": 73,
     "sl_pct": -7.0,
-    "rr_ratio": 149.29,
+    "rr_ratio": 1.8,
     "atr_pct": 455.79,
     "bull_pct": 65.1,
     "vol_surge": 17.57,
@@ -22,7 +22,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_MDIA_1794582549",
@@ -31,11 +32,11 @@
     "ticker": "MDIA",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 79.0,
-    "tp1_price": 236,
-    "tp1_pct": 198.78,
+    "tp1_price": 89,
+    "tp1_pct": 12.6,
     "sl_price": 73,
     "sl_pct": -7.0,
-    "rr_ratio": 28.4,
+    "rr_ratio": 1.8,
     "atr_pct": 56.42,
     "bull_pct": 22.0,
     "vol_surge": 0.18,
@@ -47,7 +48,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_KOTA_1794582549",
@@ -56,11 +58,11 @@
     "ticker": "KOTA",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 56.0,
-    "tp1_price": 134,
-    "tp1_pct": 140.11,
+    "tp1_price": 63,
+    "tp1_pct": 12.6,
     "sl_price": 52,
     "sl_pct": -7.0,
-    "rr_ratio": 20.02,
+    "rr_ratio": 1.8,
     "atr_pct": 52.55,
     "bull_pct": 76.7,
     "vol_surge": 0.53,
@@ -72,7 +74,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_MORA_1794582549",
@@ -81,11 +84,11 @@
     "ticker": "MORA",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 1150.0,
-    "tp1_price": 2598,
-    "tp1_pct": 125.92,
+    "tp1_price": 1295,
+    "tp1_pct": 12.6,
     "sl_price": 1070,
     "sl_pct": -7.0,
-    "rr_ratio": 17.99,
+    "rr_ratio": 1.8,
     "atr_pct": 51.74,
     "bull_pct": 58.1,
     "vol_surge": 8.14,
@@ -97,7 +100,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_UDNG_1794582549",
@@ -106,11 +110,11 @@
     "ticker": "UDNG",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 204.0,
-    "tp1_price": 475,
-    "tp1_pct": 133.05,
+    "tp1_price": 230,
+    "tp1_pct": 12.6,
     "sl_price": 190,
     "sl_pct": -7.0,
-    "rr_ratio": 19.01,
+    "rr_ratio": 1.8,
     "atr_pct": 102.35,
     "bull_pct": 59.4,
     "vol_surge": 1.56,
@@ -122,7 +126,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_TRIN_1794582549",
@@ -131,11 +136,11 @@
     "ticker": "TRIN",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 99.0,
-    "tp1_price": 196,
-    "tp1_pct": 97.65,
+    "tp1_price": 111,
+    "tp1_pct": 12.6,
     "sl_price": 92,
     "sl_pct": -7.0,
-    "rr_ratio": 13.95,
+    "rr_ratio": 1.8,
     "atr_pct": 44.95,
     "bull_pct": 51.1,
     "vol_surge": 7.21,
@@ -147,7 +152,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_RGAS_1794582549",
@@ -156,11 +162,11 @@
     "ticker": "RGAS",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 65.0,
-    "tp1_price": 138,
-    "tp1_pct": 112.84,
+    "tp1_price": 73,
+    "tp1_pct": 12.6,
     "sl_price": 60,
     "sl_pct": -7.0,
-    "rr_ratio": 16.12,
+    "rr_ratio": 1.8,
     "atr_pct": 46.59,
     "bull_pct": 50.4,
     "vol_surge": 0.06,
@@ -172,7 +178,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_FUTR_1794582549",
@@ -181,11 +188,11 @@
     "ticker": "FUTR",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 128.0,
-    "tp1_price": 244,
-    "tp1_pct": 90.59,
+    "tp1_price": 144,
+    "tp1_pct": 12.6,
     "sl_price": 119,
     "sl_pct": -7.0,
-    "rr_ratio": 12.94,
+    "rr_ratio": 1.8,
     "atr_pct": 37.22,
     "bull_pct": 78.5,
     "vol_surge": 0.53,
@@ -197,7 +204,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_ARKO_1794582549",
@@ -206,11 +214,11 @@
     "ticker": "ARKO",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 1385.0,
-    "tp1_price": 2705,
-    "tp1_pct": 95.3,
+    "tp1_price": 1560,
+    "tp1_pct": 12.6,
     "sl_price": 1288,
     "sl_pct": -7.0,
-    "rr_ratio": 13.61,
+    "rr_ratio": 1.8,
     "atr_pct": 49.59,
     "bull_pct": 60.2,
     "vol_surge": 1.56,
@@ -222,7 +230,8 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   },
   {
     "id": "CMD_2026-11-13_MLPT_1794582549",
@@ -231,11 +240,11 @@
     "ticker": "MLPT",
     "source": "CMD_TECHNICAL_AI",
     "entry_price": 406.0,
-    "tp1_price": 758,
-    "tp1_pct": 86.67,
+    "tp1_price": 457,
+    "tp1_pct": 12.6,
     "sl_price": 378,
     "sl_pct": -7.0,
-    "rr_ratio": 12.38,
+    "rr_ratio": 1.8,
     "atr_pct": 41.56,
     "bull_pct": 69.8,
     "vol_surge": 0.72,
@@ -247,6 +256,7 @@
     "exit_date": null,
     "exit_price": null,
     "realized_pnl_pct": null,
-    "exit_reason": null
+    "exit_reason": null,
+    "action_tag": "SWING ENTRY"
   }
 ]
