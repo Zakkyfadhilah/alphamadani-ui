@@ -1,0 +1,3032 @@
+{
+  "date": 20261113,
+  "period": 14,
+  "data": {
+    "byCode": [
+      {
+        "code": "AADI",
+        "name": "Adaro Andalan Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "AALI",
+        "name": "Astra Agro Lestari Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ABBA",
+        "name": "Mahaka Media Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ABDA",
+        "name": "Asuransi Bina Dana Arta Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ABMM",
+        "name": "ABM Investama Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ACES",
+        "name": "Aspirasi Hidup Indonesia Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ACRO",
+        "name": "Samcro Hyosung Adilestari Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ACST",
+        "name": "Acset Indonusa Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADCP",
+        "name": "Adhi Commuter Properti Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADES",
+        "name": "Akasha Wira International Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADHI",
+        "name": "Adhi Karya (Persero) Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADMF",
+        "name": "Adira Dinamika Multi Finance Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADMG",
+        "name": "Polychem Indonesia Tbk",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADMR",
+        "name": "Alamtri Minerals Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "ADRO",
+        "name": "Alamtri Resources Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "AEGS",
+        "name": "Anugerah Spareparts Sejahtera Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AGAR",
+        "name": "Asia Sejahtera Mina Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AGII",
+        "name": "Samator Indo Gas Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AGRO",
+        "name": "Bank Raya Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AGRS",
+        "name": "Bank IBK Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AHAP",
+        "name": "Asuransi Harta Aman Pratama Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AIMS",
+        "name": "Artha Mahiya Investama Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "AISA",
+        "name": "FKS Food Sejahtera Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AKKU",
+        "name": "Anugerah Kagum Karya Utama Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AKPI",
+        "name": "Argha Karya Prima Industry Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AKRA",
+        "name": "AKR Corporindo Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "AKSI",
+        "name": "Mineral Sumberdaya Mandiri Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "ALDO",
+        "name": "Alkindo Naratama Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ALII",
+        "name": "Ancara Logistics Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "ALKA",
+        "name": "Alakasa Industrindo Tbk",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ALMI",
+        "name": "Alumindo Light Metal Industry Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ALTO",
+        "name": "Tri Banyan Tirta Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMAG",
+        "name": "Asuransi Multi Artha Guna Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMAN",
+        "name": "Makmur Berkah Amanda Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMAR",
+        "name": "Bank Amar Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMFG",
+        "name": "Asahimas Flat Glass Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMIN",
+        "name": "Ateliers Mecaniques D Indonesie Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMMN",
+        "name": "Amman Mineral Internasional Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMMS",
+        "name": "Agung Menjangan Mas Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMOR",
+        "name": "Ashmore Asset Management Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AMRT",
+        "name": "Sumber Alfaria Trijaya Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ANDI",
+        "name": "Andira Agro Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ANJT",
+        "name": "Austindo Nusantara Jaya Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ANTM",
+        "name": "ANTAM (Persero) Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "APEX",
+        "name": "Apexindo Pratama Duta Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "APIC",
+        "name": "Pacific Strategic Financial Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "APII",
+        "name": "Arita Prima Indonesia Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "APLI",
+        "name": "Asiaplast Industries Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "APLN",
+        "name": "Agung Podomoro Land Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARCI",
+        "name": "Archi Indonesia Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AREA",
+        "name": "Dunia Virtual Online Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARGO",
+        "name": "Argo Pantes Tbk",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARII",
+        "name": "Atlas Resources Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARKA",
+        "name": "Arkha Jayanti Persada Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARKO",
+        "name": "Arkora Hydro Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARMY",
+        "name": "Armidian Karyatama Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARNA",
+        "name": "Arwana Citramulia Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARTA",
+        "name": "Arthavest Tbk",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARTI",
+        "name": "Ratu Prabu Energi Tbk",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "ARTO",
+        "name": "Bank Jago Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASBI",
+        "name": "Asuransi Bintang Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASDM",
+        "name": "Asuransi Dayin Mitra Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASGR",
+        "name": "Astra Graphia Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASHA",
+        "name": "Cilacap Samudera Fishing Industry Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASII",
+        "name": "Astra International Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASJT",
+        "name": "Asuransi Jasa Tania Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASLC",
+        "name": "Autopedia Sukses Lestari Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASLI",
+        "name": "Asri Karya Lestari Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASMI",
+        "name": "Asuransi Maximus Graha Persada Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASPI",
+        "name": "Andalan Sakti Primaindo Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASPR",
+        "name": "Asia Pramulia Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASRI",
+        "name": "Alam Sutera Realty Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASRM",
+        "name": "Asuransi Ramayana Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "ASSA",
+        "name": "Adi Sarana Armada Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "ATAP",
+        "name": "Trimitra Prawara Goldland Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "ATIC",
+        "name": "Anabatic Technologies Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "ATLA",
+        "name": "Atlantis Subsea Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "AUTO",
+        "name": "Astra Otoparts Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AVIA",
+        "name": "Avia Avian Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "AWAN",
+        "name": "Era Digital Media Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "AXIO",
+        "name": "Tera Data Indonusa Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "AYAM",
+        "name": "Janu Putra Sejahtera Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "AYLS",
+        "name": "Arkayana Lestari Grup Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BABP",
+        "name": "Bank MNC Internasional Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BABY",
+        "name": "Multitrend Indo Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BACA",
+        "name": "Bank Capital Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BACH",
+        "name": "Bach Multi Global Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAIK",
+        "name": "Bersama Mencapai Puncak Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAJA",
+        "name": "Saranacentral Bajatama Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BALI",
+        "name": "Bali Towerindo Sentra Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "BANK",
+        "name": "Bank Aladin Syariah Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAPA",
+        "name": "Bekasi Asri Pemula Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAPI",
+        "name": "Bhakti Agung Propertindo Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BATA",
+        "name": "Sepatu Bata Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BATR",
+        "name": "Benteng Api Technic Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAUT",
+        "name": "Mitra Angkasa Sejahtera Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BAYU",
+        "name": "Bayu Buana Tbk",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBCA",
+        "name": "Bank Central Asia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBHI",
+        "name": "Allo Bank Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBKP",
+        "name": "Bank KB Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBLD",
+        "name": "Buana Finance Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBMD",
+        "name": "Bank Mestika Dharma Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBNI",
+        "name": "Bank Negara Indonesia (Persero) Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBRI",
+        "name": "Bank Rakyat Indonesia (Persero) Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBRM",
+        "name": "Pelayaran Nasional Bina Buana Raya Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBSI",
+        "name": "Krom Bank Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBSS",
+        "name": "Bumi Benowo Sukses Sejahtera Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBTN",
+        "name": "Bank Tabungan Negara (Persero) Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BBYB",
+        "name": "Bank Neo Commerce Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BCAP",
+        "name": "MNC Kapital Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BCIC",
+        "name": "Bank JTrust Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BCIP",
+        "name": "Bumi Citra Permai Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BDKR",
+        "name": "Berdikari Pondasi Perkasa Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "BDMN",
+        "name": "Bank Danamon Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BEBS",
+        "name": "Berkah Beton Sadaya Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BEEF",
+        "name": "Estika Tata Tiara Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BEER",
+        "name": "Jobubu Jarum Minahasa Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BEKS",
+        "name": "Bank Pembangunan Daerah Banten Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BELI",
+        "name": "Global Digital Niaga Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "BELL",
+        "name": "Trisula Textile Industries Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BESS",
+        "name": "Batulicin Nusantara Maritim Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BEST",
+        "name": "Bekasi Fajar Industrial Estate Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BFIN",
+        "name": "BFI Finance  Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BGTG",
+        "name": "Bank Ganesha Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BHAT",
+        "name": "Bhakti Multi Artha Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BHIT",
+        "name": "MNC Asia Holding Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIKA",
+        "name": "Binakarya Jaya Abadi Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIKE",
+        "name": "Sepeda Bersama Indonesia Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIMA",
+        "name": "Primarindo Asia Infrastructure Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BINA",
+        "name": "Bank Ina Perdana Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BINO",
+        "name": "Perma Plasindo Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIPI",
+        "name": "Astrindo Nusantara Infrastruktur Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIPP",
+        "name": "Bhuwanatala Indah Permai Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BIRD",
+        "name": "Blue Bird Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "BISI",
+        "name": "BISI International Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BJBR",
+        "name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BJTM",
+        "name": "Bank Pembangunan Daerah Jawa Timur Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BKDP",
+        "name": "Bukit Darmo Property Tbk",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BKSL",
+        "name": "Sentul City Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BKSW",
+        "name": "Bank QNB Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BLES",
+        "name": "Superior Prima Sukses Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BLOG",
+        "name": "Trimitra Trans Persada Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "BLTA",
+        "name": "Berlian Laju Tanker Tbk",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "BLTZ",
+        "name": "Graha Layar Prima Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BLUE",
+        "name": "Berkah Prima Perkasa Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMAS",
+        "name": "Bank Kasikorn Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMBL",
+        "name": "Lavender Bina Cendikia Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMHS",
+        "name": "Bundamedik Tbk.",
+        "sector": "Healthcare",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMRI",
+        "name": "Bank Mandiri (Persero) Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMSR",
+        "name": "Bintang Mitra Semestaraya Tbk",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BMTR",
+        "name": "Global Mediacom Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BNBA",
+        "name": "Bank Bumi Arta Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BNBR",
+        "name": "Bakrie & Brothers Tbk",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BNGA",
+        "name": "Bank CIMB Niaga Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BNII",
+        "name": "Bank Maybank Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BNLI",
+        "name": "Bank Permata Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOAT",
+        "name": "Newport Marine Services Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOBA",
+        "name": "Formosa Ingredient Factory Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOGA",
+        "name": "Apollo Global Interactive Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOLA",
+        "name": "Bali Bintang Sejahtera Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOLT",
+        "name": "Garuda Metalindo Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BOSS",
+        "name": "Borneo Olah Sarana Sukses Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BPFI",
+        "name": "Woori Finance Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BPII",
+        "name": "Batavia Prosperindo Internasional Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BPTR",
+        "name": "Batavia Prosperindo Trans Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRAM",
+        "name": "Indo Kordsa Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BREN",
+        "name": "Barito Renewables Energy Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRIS",
+        "name": "Bank Syariah Indonesia (Persero) Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRMS",
+        "name": "Bumi Resources Minerals Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRNA",
+        "name": "Berlina Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRPT",
+        "name": "Barito Pacific Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BRRC",
+        "name": "Raja Roti Cemerlang Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSBK",
+        "name": "Wulandari Bangun Laksana Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSDE",
+        "name": "Bumi Serpong Damai Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSIM",
+        "name": "Bank Sinarmas Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSML",
+        "name": "Bintang Samudera Mandiri Lines Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSSR",
+        "name": "Baramulti Suksessarana Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BSWD",
+        "name": "Bank Of India Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BTEK",
+        "name": "Bumi Teknokultura Unggul Tbk",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BTEL",
+        "name": "Bakrie Telecom Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "BTON",
+        "name": "Betonjaya Manunggal Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BTPN",
+        "name": "Bank SMBC Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BTPS",
+        "name": "Bank BTPN Syariah Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUAH",
+        "name": "Segar Kumala Indonesia Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUDI",
+        "name": "Budi Starch & Sweetener Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUKA",
+        "name": "Bukalapak.com Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUKK",
+        "name": "Bukaka Teknik Utama Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "BULL",
+        "name": "Buana Lintas Lautan Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUMI",
+        "name": "Bumi Resources Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "BUVA",
+        "name": "Bukit Uluwatu Villa Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BVIC",
+        "name": "Bank Victoria International Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "BWPT",
+        "name": "Eagle High Plantations Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "BYAN",
+        "name": "Bayan Resources Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CAKK",
+        "name": "Cahayaputra Asa Keramik Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CAMP",
+        "name": "Campina Ice Cream Industry Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CANI",
+        "name": "Capitol Nusantara Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CARE",
+        "name": "Metro Healthcare Indonesia Tbk.",
+        "sector": "Healthcare",
+        "rsi": 52.0
+      },
+      {
+        "code": "CARS",
+        "name": "Industri dan Perdagangan Bintraco Dharma Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CASA",
+        "name": "Capital Financial Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CASH",
+        "name": "Cashlez Worldwide Indonesia Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "CASS",
+        "name": "Cahaya Aero Services Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "CBDK",
+        "name": "Bangun Kosambi Sukses Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CBMF",
+        "name": "Cahaya Bintang Medan Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CBPE",
+        "name": "Citra Buana Prasida Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CBRE",
+        "name": "Cakra Buana Resources Energi Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CBUT",
+        "name": "Citra Borneo Utama Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CCSI",
+        "name": "Communication Cable Systems Indonesia Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CDIA",
+        "name": "Chandra Daya Investasi Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "CEKA",
+        "name": "Wilmar Cahaya Indonesia Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CENT",
+        "name": "Centratama Telekomunikasi Indonesia Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "CFIN",
+        "name": "Clipan Finance Indonesia Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CGAS",
+        "name": "Citra Nusantara Gemilang Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CHEK",
+        "name": "Diastika Biotekindo Tbk.",
+        "sector": "Healthcare",
+        "rsi": 52.0
+      },
+      {
+        "code": "CHEM",
+        "name": "Chemstar Indonesia Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CHIP",
+        "name": "Pelita Teknologi Global Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "CINT",
+        "name": "Chitose Internasional Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CITA",
+        "name": "Cita Mineral Investindo Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CITY",
+        "name": "Natura City Developments Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CLAY",
+        "name": "Citra Putra Realty Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CLEO",
+        "name": "Sariguna Primatirta Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CLPI",
+        "name": "Colorpak Indonesia Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CMNP",
+        "name": "Citra Marga Nusaphala Persada Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "CMNT",
+        "name": "Cemindo Gemilang Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CMPP",
+        "name": "AirAsia Indonesia Tbk.",
+        "sector": "Transportation & Logistic",
+        "rsi": 52.0
+      },
+      {
+        "code": "CMRY",
+        "name": "Cisarua Mountain Dairy Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CNKO",
+        "name": "Exploitasi Energi Indonesia Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CNMA",
+        "name": "Nusantara Sejahtera Raya Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "COAL",
+        "name": "Black Diamond Resources Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "COCO",
+        "name": "Wahana Interfood Nusantara Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "COIN",
+        "name": "Indokripto Koin Semesta Tbk.",
+        "sector": "Financials",
+        "rsi": 52.0
+      },
+      {
+        "code": "COWL",
+        "name": "Cowell Development Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CPIN",
+        "name": "Charoen Pokphand Indonesia Tbk",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CPRI",
+        "name": "Capri Nusa Satu Properti Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CPRO",
+        "name": "Central Proteina Prima Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CRAB",
+        "name": "Toba Surimi Industries Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CRSN",
+        "name": "Carsurin Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CSAP",
+        "name": "Catur Sentosa Adiprana Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CSIS",
+        "name": "Cahayasakti Investindo Sukses Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CSMI",
+        "name": "Cipta Selera Murni Tbk.",
+        "sector": "Consumer Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CSRA",
+        "name": "Cisadane Sawit Raya Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      },
+      {
+        "code": "CTBN",
+        "name": "Citra Tubindo Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CTRA",
+        "name": "Ciputra Development Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "CTTH",
+        "name": "Citatah Tbk.",
+        "sector": "Industrials",
+        "rsi": 52.0
+      },
+      {
+        "code": "CUAN",
+        "name": "Petrindo Jaya Kreasi Tbk.",
+        "sector": "Energy",
+        "rsi": 52.0
+      },
+      {
+        "code": "CYBR",
+        "name": "ITSEC Asia Tbk.",
+        "sector": "Technology",
+        "rsi": 52.0
+      },
+      {
+        "code": "DAAZ",
+        "name": "Daaz Bara Lestari Tbk.",
+        "sector": "Basic Materials",
+        "rsi": 52.0
+      },
+      {
+        "code": "DADA",
+        "name": "Diamond Citra Propertindo Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "DART",
+        "name": "Duta Anggada Realty Tbk.",
+        "sector": "Properties & Real Estate",
+        "rsi": 52.0
+      },
+      {
+        "code": "DATA",
+        "name": "Remala Abadi Tbk.",
+        "sector": "Infrastructures",
+        "rsi": 52.0
+      },
+      {
+        "code": "DAYA",
+        "name": "Duta Intidaya Tbk.",
+        "sector": "Consumer Non-Cyclicals",
+        "rsi": 52.0
+      }
+    ],
+    "bySector": {
+      "Energy": [
+        {
+          "code": "AADI",
+          "name": "Adaro Andalan Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ADMR",
+          "name": "Alamtri Minerals Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ADRO",
+          "name": "Alamtri Resources Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "AIMS",
+          "name": "Artha Mahiya Investama Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "AKRA",
+          "name": "AKR Corporindo Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ALII",
+          "name": "Ancara Logistics Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "APEX",
+          "name": "Apexindo Pratama Duta Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARII",
+          "name": "Atlas Resources Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARTI",
+          "name": "Ratu Prabu Energi Tbk",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "ATLA",
+          "name": "Atlantis Subsea Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBRM",
+          "name": "Pelayaran Nasional Bina Buana Raya Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BESS",
+          "name": "Batulicin Nusantara Maritim Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIPI",
+          "name": "Astrindo Nusantara Infrastruktur Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOAT",
+          "name": "Newport Marine Services Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOSS",
+          "name": "Borneo Olah Sarana Sukses Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSML",
+          "name": "Bintang Samudera Mandiri Lines Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSSR",
+          "name": "Baramulti Suksessarana Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BULL",
+          "name": "Buana Lintas Lautan Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUMI",
+          "name": "Bumi Resources Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "BYAN",
+          "name": "Bayan Resources Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "CANI",
+          "name": "Capitol Nusantara Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "CBRE",
+          "name": "Cakra Buana Resources Energi Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "CGAS",
+          "name": "Citra Nusantara Gemilang Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "CNKO",
+          "name": "Exploitasi Energi Indonesia Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "COAL",
+          "name": "Black Diamond Resources Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        },
+        {
+          "code": "CUAN",
+          "name": "Petrindo Jaya Kreasi Tbk.",
+          "sector": "Energy",
+          "rsi": 52.0
+        }
+      ],
+      "Consumer Non-Cyclicals": [
+        {
+          "code": "AALI",
+          "name": "Astra Agro Lestari Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ADES",
+          "name": "Akasha Wira International Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AGAR",
+          "name": "Asia Sejahtera Mina Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AISA",
+          "name": "FKS Food Sejahtera Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ALTO",
+          "name": "Tri Banyan Tirta Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMMS",
+          "name": "Agung Menjangan Mas Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMRT",
+          "name": "Sumber Alfaria Trijaya Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ANDI",
+          "name": "Andira Agro Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ANJT",
+          "name": "Austindo Nusantara Jaya Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASHA",
+          "name": "Cilacap Samudera Fishing Industry Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AYAM",
+          "name": "Janu Putra Sejahtera Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BEEF",
+          "name": "Estika Tata Tiara Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BEER",
+          "name": "Jobubu Jarum Minahasa Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BISI",
+          "name": "BISI International Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOBA",
+          "name": "Formosa Ingredient Factory Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRRC",
+          "name": "Raja Roti Cemerlang Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BTEK",
+          "name": "Bumi Teknokultura Unggul Tbk",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUAH",
+          "name": "Segar Kumala Indonesia Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUDI",
+          "name": "Budi Starch & Sweetener Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BWPT",
+          "name": "Eagle High Plantations Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CAMP",
+          "name": "Campina Ice Cream Industry Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CBUT",
+          "name": "Citra Borneo Utama Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CEKA",
+          "name": "Wilmar Cahaya Indonesia Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CLEO",
+          "name": "Sariguna Primatirta Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CMRY",
+          "name": "Cisarua Mountain Dairy Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "COCO",
+          "name": "Wahana Interfood Nusantara Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CPIN",
+          "name": "Charoen Pokphand Indonesia Tbk",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CPRO",
+          "name": "Central Proteina Prima Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CRAB",
+          "name": "Toba Surimi Industries Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CSRA",
+          "name": "Cisadane Sawit Raya Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "DAYA",
+          "name": "Duta Intidaya Tbk.",
+          "sector": "Consumer Non-Cyclicals",
+          "rsi": 52.0
+        }
+      ],
+      "Consumer Cyclicals": [
+        {
+          "code": "ABBA",
+          "name": "Mahaka Media Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ACES",
+          "name": "Aspirasi Hidup Indonesia Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ACRO",
+          "name": "Samcro Hyosung Adilestari Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AEGS",
+          "name": "Anugerah Spareparts Sejahtera Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AKKU",
+          "name": "Anugerah Kagum Karya Utama Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARGO",
+          "name": "Argo Pantes Tbk",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARTA",
+          "name": "Arthavest Tbk",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASLC",
+          "name": "Autopedia Sukses Lestari Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "AUTO",
+          "name": "Astra Otoparts Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BABY",
+          "name": "Multitrend Indo Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAIK",
+          "name": "Bersama Mencapai Puncak Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BATA",
+          "name": "Sepatu Bata Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAUT",
+          "name": "Mitra Angkasa Sejahtera Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAYU",
+          "name": "Bayu Buana Tbk",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BELL",
+          "name": "Trisula Textile Industries Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIKE",
+          "name": "Sepeda Bersama Indonesia Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIMA",
+          "name": "Primarindo Asia Infrastructure Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BLTZ",
+          "name": "Graha Layar Prima Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BMBL",
+          "name": "Lavender Bina Cendikia Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOGA",
+          "name": "Apollo Global Interactive Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOLA",
+          "name": "Bali Bintang Sejahtera Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BOLT",
+          "name": "Garuda Metalindo Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRAM",
+          "name": "Indo Kordsa Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUVA",
+          "name": "Bukit Uluwatu Villa Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CARS",
+          "name": "Industri dan Perdagangan Bintraco Dharma Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CBMF",
+          "name": "Cahaya Bintang Medan Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CINT",
+          "name": "Chitose Internasional Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CLAY",
+          "name": "Citra Putra Realty Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CNMA",
+          "name": "Nusantara Sejahtera Raya Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CSAP",
+          "name": "Catur Sentosa Adiprana Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        },
+        {
+          "code": "CSMI",
+          "name": "Cipta Selera Murni Tbk.",
+          "sector": "Consumer Cyclicals",
+          "rsi": 52.0
+        }
+      ],
+      "Financials": [
+        {
+          "code": "ABDA",
+          "name": "Asuransi Bina Dana Arta Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ADMF",
+          "name": "Adira Dinamika Multi Finance Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AGRO",
+          "name": "Bank Raya Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AGRS",
+          "name": "Bank IBK Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AHAP",
+          "name": "Asuransi Harta Aman Pratama Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMAG",
+          "name": "Asuransi Multi Artha Guna Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMAR",
+          "name": "Bank Amar Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMOR",
+          "name": "Ashmore Asset Management Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "APIC",
+          "name": "Pacific Strategic Financial Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARTO",
+          "name": "Bank Jago Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASBI",
+          "name": "Asuransi Bintang Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASDM",
+          "name": "Asuransi Dayin Mitra Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASJT",
+          "name": "Asuransi Jasa Tania Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASMI",
+          "name": "Asuransi Maximus Graha Persada Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASRM",
+          "name": "Asuransi Ramayana Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BABP",
+          "name": "Bank MNC Internasional Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BACA",
+          "name": "Bank Capital Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBCA",
+          "name": "Bank Central Asia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBHI",
+          "name": "Allo Bank Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBKP",
+          "name": "Bank KB Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBLD",
+          "name": "Buana Finance Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBMD",
+          "name": "Bank Mestika Dharma Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBNI",
+          "name": "Bank Negara Indonesia (Persero) Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBRI",
+          "name": "Bank Rakyat Indonesia (Persero) Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBSI",
+          "name": "Krom Bank Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBTN",
+          "name": "Bank Tabungan Negara (Persero) Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBYB",
+          "name": "Bank Neo Commerce Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BCAP",
+          "name": "MNC Kapital Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BCIC",
+          "name": "Bank JTrust Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BDMN",
+          "name": "Bank Danamon Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BEKS",
+          "name": "Bank Pembangunan Daerah Banten Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BFIN",
+          "name": "BFI Finance  Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BGTG",
+          "name": "Bank Ganesha Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BHAT",
+          "name": "Bhakti Multi Artha Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BINA",
+          "name": "Bank Ina Perdana Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BJBR",
+          "name": "Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BJTM",
+          "name": "Bank Pembangunan Daerah Jawa Timur Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BKSW",
+          "name": "Bank QNB Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BMAS",
+          "name": "Bank Kasikorn Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BMRI",
+          "name": "Bank Mandiri (Persero) Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BNBA",
+          "name": "Bank Bumi Arta Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BNGA",
+          "name": "Bank CIMB Niaga Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BNII",
+          "name": "Bank Maybank Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BNLI",
+          "name": "Bank Permata Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BPFI",
+          "name": "Woori Finance Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BPII",
+          "name": "Batavia Prosperindo Internasional Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRIS",
+          "name": "Bank Syariah Indonesia (Persero) Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSIM",
+          "name": "Bank Sinarmas Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSWD",
+          "name": "Bank Of India Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BTPN",
+          "name": "Bank SMBC Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BTPS",
+          "name": "Bank BTPN Syariah Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BVIC",
+          "name": "Bank Victoria International Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CASA",
+          "name": "Capital Financial Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CFIN",
+          "name": "Clipan Finance Indonesia Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        },
+        {
+          "code": "COIN",
+          "name": "Indokripto Koin Semesta Tbk.",
+          "sector": "Financials",
+          "rsi": 52.0
+        }
+      ],
+      "Industrials": [
+        {
+          "code": "ABMM",
+          "name": "ABM Investama Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMFG",
+          "name": "Asahimas Flat Glass Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMIN",
+          "name": "Ateliers Mecaniques D Indonesie Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "APII",
+          "name": "Arita Prima Indonesia Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARKA",
+          "name": "Arkha Jayanti Persada Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARNA",
+          "name": "Arwana Citramulia Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASGR",
+          "name": "Astra Graphia Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASII",
+          "name": "Astra International Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BACH",
+          "name": "Bach Multi Global Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BHIT",
+          "name": "MNC Asia Holding Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BINO",
+          "name": "Perma Plasindo Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BLUE",
+          "name": "Berkah Prima Perkasa Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BMTR",
+          "name": "Global Mediacom Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BNBR",
+          "name": "Bakrie & Brothers Tbk",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CAKK",
+          "name": "Cahayaputra Asa Keramik Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CCSI",
+          "name": "Communication Cable Systems Indonesia Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CRSN",
+          "name": "Carsurin Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CTTH",
+          "name": "Citatah Tbk.",
+          "sector": "Industrials",
+          "rsi": 52.0
+        }
+      ],
+      "Infrastructures": [
+        {
+          "code": "ACST",
+          "name": "Acset Indonusa Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "ADHI",
+          "name": "Adhi Karya (Persero) Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARKO",
+          "name": "Arkora Hydro Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASLI",
+          "name": "Asri Karya Lestari Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "BALI",
+          "name": "Bali Towerindo Sentra Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "BDKR",
+          "name": "Berdikari Pondasi Perkasa Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "BREN",
+          "name": "Barito Renewables Energy Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "BTEL",
+          "name": "Bakrie Telecom Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUKK",
+          "name": "Bukaka Teknik Utama Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "CASS",
+          "name": "Cahaya Aero Services Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "CDIA",
+          "name": "Chandra Daya Investasi Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "CENT",
+          "name": "Centratama Telekomunikasi Indonesia Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "CMNP",
+          "name": "Citra Marga Nusaphala Persada Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        },
+        {
+          "code": "DATA",
+          "name": "Remala Abadi Tbk.",
+          "sector": "Infrastructures",
+          "rsi": 52.0
+        }
+      ],
+      "Properties & Real Estate": [
+        {
+          "code": "ADCP",
+          "name": "Adhi Commuter Properti Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMAN",
+          "name": "Makmur Berkah Amanda Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "APLN",
+          "name": "Agung Podomoro Land Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARMY",
+          "name": "Armidian Karyatama Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASPI",
+          "name": "Andalan Sakti Primaindo Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASRI",
+          "name": "Alam Sutera Realty Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "ATAP",
+          "name": "Trimitra Prawara Goldland Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAPA",
+          "name": "Bekasi Asri Pemula Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAPI",
+          "name": "Bhakti Agung Propertindo Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BBSS",
+          "name": "Bumi Benowo Sukses Sejahtera Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BCIP",
+          "name": "Bumi Citra Permai Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BEST",
+          "name": "Bekasi Fajar Industrial Estate Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIKA",
+          "name": "Binakarya Jaya Abadi Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIPP",
+          "name": "Bhuwanatala Indah Permai Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BKDP",
+          "name": "Bukit Darmo Property Tbk",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BKSL",
+          "name": "Sentul City Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSBK",
+          "name": "Wulandari Bangun Laksana Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "BSDE",
+          "name": "Bumi Serpong Damai Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CBDK",
+          "name": "Bangun Kosambi Sukses Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CBPE",
+          "name": "Citra Buana Prasida Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CITY",
+          "name": "Natura City Developments Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "COWL",
+          "name": "Cowell Development Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CPRI",
+          "name": "Capri Nusa Satu Properti Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CSIS",
+          "name": "Cahayasakti Investindo Sukses Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "CTRA",
+          "name": "Ciputra Development Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "DADA",
+          "name": "Diamond Citra Propertindo Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        },
+        {
+          "code": "DART",
+          "name": "Duta Anggada Realty Tbk.",
+          "sector": "Properties & Real Estate",
+          "rsi": 52.0
+        }
+      ],
+      "Basic Materials": [
+        {
+          "code": "ADMG",
+          "name": "Polychem Indonesia Tbk",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AGII",
+          "name": "Samator Indo Gas Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AKPI",
+          "name": "Argha Karya Prima Industry Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ALDO",
+          "name": "Alkindo Naratama Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ALKA",
+          "name": "Alakasa Industrindo Tbk",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ALMI",
+          "name": "Alumindo Light Metal Industry Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AMMN",
+          "name": "Amman Mineral Internasional Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ANTM",
+          "name": "ANTAM (Persero) Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "APLI",
+          "name": "Asiaplast Industries Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ARCI",
+          "name": "Archi Indonesia Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASPR",
+          "name": "Asia Pramulia Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AVIA",
+          "name": "Avia Avian Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "AYLS",
+          "name": "Arkayana Lestari Grup Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BAJA",
+          "name": "Saranacentral Bajatama Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BANK",
+          "name": "Bank Aladin Syariah Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BATR",
+          "name": "Benteng Api Technic Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BEBS",
+          "name": "Berkah Beton Sadaya Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BLES",
+          "name": "Superior Prima Sukses Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BMSR",
+          "name": "Bintang Mitra Semestaraya Tbk",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRMS",
+          "name": "Bumi Resources Minerals Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRNA",
+          "name": "Berlina Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BRPT",
+          "name": "Barito Pacific Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "BTON",
+          "name": "Betonjaya Manunggal Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CHEM",
+          "name": "Chemstar Indonesia Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CITA",
+          "name": "Cita Mineral Investindo Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CLPI",
+          "name": "Colorpak Indonesia Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CMNT",
+          "name": "Cemindo Gemilang Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "CTBN",
+          "name": "Citra Tubindo Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        },
+        {
+          "code": "DAAZ",
+          "name": "Daaz Bara Lestari Tbk.",
+          "sector": "Basic Materials",
+          "rsi": 52.0
+        }
+      ],
+      "Transportation & Logistic": [
+        {
+          "code": "AKSI",
+          "name": "Mineral Sumberdaya Mandiri Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "ASSA",
+          "name": "Adi Sarana Armada Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "BIRD",
+          "name": "Blue Bird Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "BLOG",
+          "name": "Trimitra Trans Persada Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "BLTA",
+          "name": "Berlian Laju Tanker Tbk",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "BPTR",
+          "name": "Batavia Prosperindo Trans Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        },
+        {
+          "code": "CMPP",
+          "name": "AirAsia Indonesia Tbk.",
+          "sector": "Transportation & Logistic",
+          "rsi": 52.0
+        }
+      ],
+      "Technology": [
+        {
+          "code": "AREA",
+          "name": "Dunia Virtual Online Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "ATIC",
+          "name": "Anabatic Technologies Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "AWAN",
+          "name": "Era Digital Media Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "AXIO",
+          "name": "Tera Data Indonusa Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "BELI",
+          "name": "Global Digital Niaga Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "BUKA",
+          "name": "Bukalapak.com Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "CASH",
+          "name": "Cashlez Worldwide Indonesia Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "CHIP",
+          "name": "Pelita Teknologi Global Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        },
+        {
+          "code": "CYBR",
+          "name": "ITSEC Asia Tbk.",
+          "sector": "Technology",
+          "rsi": 52.0
+        }
+      ],
+      "Healthcare": [
+        {
+          "code": "BMHS",
+          "name": "Bundamedik Tbk.",
+          "sector": "Healthcare",
+          "rsi": 52.0
+        },
+        {
+          "code": "CARE",
+          "name": "Metro Healthcare Indonesia Tbk.",
+          "sector": "Healthcare",
+          "rsi": 52.0
+        },
+        {
+          "code": "CHEK",
+          "name": "Diastika Biotekindo Tbk.",
+          "sector": "Healthcare",
+          "rsi": 52.0
+        }
+      ]
+    }
+  }
+}
