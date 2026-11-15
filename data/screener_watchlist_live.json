@@ -43,7 +43,7 @@
       "rank": 1,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     },
     {
       "ticker": "BEEF",
@@ -78,7 +78,7 @@
       "rank": 2,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     },
     {
       "ticker": "BELI",
@@ -111,7 +111,7 @@
       "rank": 3,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     },
     {
       "ticker": "KKGI",
@@ -146,7 +146,7 @@
       "rank": 4,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ESSA",
@@ -181,7 +181,7 @@
       "rank": 5,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "DKFT",
@@ -215,7 +215,7 @@
       "rank": 6,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "COIN",
@@ -249,7 +249,7 @@
       "rank": 7,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "MYOR",
@@ -284,7 +284,7 @@
       "rank": 8,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "HRUM",
@@ -318,7 +318,7 @@
       "rank": 9,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BWPT",
@@ -352,7 +352,7 @@
       "rank": 10,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BBHI",
@@ -386,7 +386,7 @@
       "rank": 11,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "APLN",
@@ -420,7 +420,7 @@
       "rank": 12,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "SINI",
@@ -453,7 +453,7 @@
       "rank": 13,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "NICL",
@@ -486,7 +486,7 @@
       "rank": 14,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ASRI",
@@ -520,7 +520,7 @@
       "rank": 15,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "INKP",
@@ -553,7 +553,7 @@
       "rank": 16,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "COCO",
@@ -586,7 +586,7 @@
       "rank": 17,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "MBMA",
@@ -619,7 +619,7 @@
       "rank": 18,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "GZCO",
@@ -652,7 +652,7 @@
       "rank": 19,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BUMI",
@@ -685,7 +685,7 @@
       "rank": 20,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "PKPK",
@@ -718,7 +718,7 @@
       "rank": 21,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BULL",
@@ -751,7 +751,7 @@
       "rank": 22,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "CFIN",
@@ -785,7 +785,7 @@
       "rank": 23,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ASSA",
@@ -818,7 +818,7 @@
       "rank": 24,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     }
   ],
   "top_picks": [
@@ -854,7 +854,7 @@
       "rank": 1,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     },
     {
       "ticker": "BEEF",
@@ -889,7 +889,7 @@
       "rank": 2,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     },
     {
       "ticker": "BELI",
@@ -922,7 +922,7 @@
       "rank": 3,
       "status_eksekusi": "DIBELI_PORTOFOLIO",
       "badge_color": "green",
-      "status_label": "\ud83d\udfe2 Terpilih Portofolio (Top Pick)"
+      "status_label": "🟢 Terpilih Portofolio (Top Pick)"
     }
   ],
   "radar_watchlist": [
@@ -959,7 +959,7 @@
       "rank": 4,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ESSA",
@@ -994,7 +994,7 @@
       "rank": 5,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "DKFT",
@@ -1028,7 +1028,7 @@
       "rank": 6,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "COIN",
@@ -1062,7 +1062,7 @@
       "rank": 7,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "MYOR",
@@ -1097,7 +1097,7 @@
       "rank": 8,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "HRUM",
@@ -1131,7 +1131,7 @@
       "rank": 9,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BWPT",
@@ -1165,7 +1165,7 @@
       "rank": 10,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BBHI",
@@ -1199,7 +1199,7 @@
       "rank": 11,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "APLN",
@@ -1233,7 +1233,7 @@
       "rank": 12,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "SINI",
@@ -1266,7 +1266,7 @@
       "rank": 13,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "NICL",
@@ -1299,7 +1299,7 @@
       "rank": 14,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ASRI",
@@ -1333,7 +1333,7 @@
       "rank": 15,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "INKP",
@@ -1366,7 +1366,7 @@
       "rank": 16,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "COCO",
@@ -1399,7 +1399,7 @@
       "rank": 17,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "MBMA",
@@ -1432,7 +1432,7 @@
       "rank": 18,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "GZCO",
@@ -1465,7 +1465,7 @@
       "rank": 19,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BUMI",
@@ -1498,7 +1498,7 @@
       "rank": 20,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "PKPK",
@@ -1531,7 +1531,7 @@
       "rank": 21,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "BULL",
@@ -1564,7 +1564,7 @@
       "rank": 22,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "CFIN",
@@ -1598,7 +1598,7 @@
       "rank": 23,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     },
     {
       "ticker": "ASSA",
@@ -1631,7 +1631,7 @@
       "rank": 24,
       "status_eksekusi": "RADAR_WATCHLIST",
       "badge_color": "amber",
-      "status_label": "\ud83d\udfe1 Radar Watchlist (Peluang Cadangan)"
+      "status_label": "🟡 Radar Watchlist (Peluang Cadangan)"
     }
   ]
 }
