@@ -26,10 +26,10 @@
     "quantRating": 18
   },
   "momentum": {
-    "week4PC": 1.4925373134328357,
-    "week13PC": -24.861878453038674,
-    "week26PC": -36.44859813084112,
-    "week52PC": -38.18181818181819
+    "week4PC": 4.8,
+    "week13PC": -27.624309392265197,
+    "week26PC": -36.407766990291265,
+    "week52PC": -40.99099099099099
   },
   "management": {
     "directors": [],
@@ -38,28 +38,28 @@
     "subsidiaries": []
   },
   "quote": {
-    "price": 136.0,
-    "previous": 127.0,
-    "change": 9.0,
-    "percent": 7.09,
-    "volume": 3776789500,
-    "turnover": 499779451800.0,
-    "frequency": 47616,
+    "price": 131.0,
+    "previous": 131.0,
+    "change": 0.0,
+    "percent": 0.0,
+    "volume": 1404071500,
+    "turnover": 184987005400.0,
+    "frequency": 23876,
     "support": 126,
-    "resistance": 138,
+    "resistance": 140,
     "marketCap": 44188911656092.0
   },
   "bandarmologi": {
-    "foreignNet1D": 124790600,
-    "foreignNet1W": 433987800,
-    "foreignNet1M": 774417400,
-    "foreignNet60D": -1432346300,
-    "foreignNet3M": -6249815000,
-    "bidVolume": 61583800,
-    "offerVolume": 74826600,
-    "bidOfferRatio": 0.82,
-    "negoVolume": 1180000,
-    "negoValue": 200700000.0
+    "foreignNet1D": -106162600,
+    "foreignNet1W": -398378700,
+    "foreignNet1M": 32585600,
+    "foreignNet60D": -1151868200,
+    "foreignNet3M": -5856093100,
+    "bidVolume": 19666100,
+    "offerVolume": 19644700,
+    "bidOfferRatio": 1.0,
+    "negoVolume": 2900000,
+    "negoValue": 508900000.0
   },
   "financials": {
     "per": 21.23,
@@ -79,27 +79,8 @@
   "chart": {
     "candles": [
       {
-        "date": 1779642000000,
-        "dateStr": "25 May 2026",
-        "open": 183.0,
-        "high": 184.0,
-        "low": 171.0,
-        "close": 171.0,
-        "volume": 4461704000,
-        "value": 785219933800.0,
-        "foreignNet": -907142500,
-        "bidVolume": 9853100,
-        "offerVolume": 10651300,
-        "nonRegularVolume": 48087650,
-        "nonRegularValue": 12353766950.0,
-        "ma20": 171,
-        "ma50": 171,
-        "rsi": 50.0,
-        "rsiSector": 50.0
-      },
-      {
         "date": 1779728400000,
-        "dateStr": "26 May 2026",
+        "dateStr": "25 May 2026",
         "open": 169.0,
         "high": 177.0,
         "low": 166.0,
@@ -111,14 +92,14 @@
         "offerVolume": 2588000,
         "nonRegularVolume": 8299142,
         "nonRegularValue": 1611370308.0,
-        "ma20": 168,
-        "ma50": 168,
+        "ma20": 166,
+        "ma50": 166,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1779987600000,
-        "dateStr": "29 May 2026",
+        "dateStr": "28 May 2026",
         "open": 168.0,
         "high": 173.0,
         "low": 166.0,
@@ -130,14 +111,14 @@
         "offerVolume": 12201300,
         "nonRegularVolume": 62670500,
         "nonRegularValue": 14938151000.0,
-        "ma20": 168,
-        "ma50": 168,
+        "ma20": 167,
+        "ma50": 167,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780333200000,
-        "dateStr": "02 Jun 2026",
+        "dateStr": "01 Jun 2026",
         "open": 171.0,
         "high": 175.0,
         "low": 160.0,
@@ -149,14 +130,14 @@
         "offerVolume": 4956400,
         "nonRegularVolume": 2641049,
         "nonRegularValue": 530094301.0,
-        "ma20": 166,
-        "ma50": 166,
+        "ma20": 165,
+        "ma50": 165,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780419600000,
-        "dateStr": "03 Jun 2026",
+        "dateStr": "02 Jun 2026",
         "open": 162.0,
         "high": 164.0,
         "low": 141.0,
@@ -168,14 +149,14 @@
         "offerVolume": 3647000,
         "nonRegularVolume": 16870099,
         "nonRegularValue": 3756313730.0,
-        "ma20": 163,
-        "ma50": 163,
+        "ma20": 161,
+        "ma50": 161,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780506000000,
-        "dateStr": "04 Jun 2026",
+        "dateStr": "03 Jun 2026",
         "open": 149.0,
         "high": 153.0,
         "low": 137.0,
@@ -187,14 +168,14 @@
         "offerVolume": 10305300,
         "nonRegularVolume": 862060000,
         "nonRegularValue": 129719968800.0,
-        "ma20": 161,
-        "ma50": 161,
+        "ma20": 159,
+        "ma50": 159,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780592400000,
-        "dateStr": "05 Jun 2026",
+        "dateStr": "04 Jun 2026",
         "open": 152.0,
         "high": 153.0,
         "low": 139.0,
@@ -206,14 +187,14 @@
         "offerVolume": 1861000,
         "nonRegularVolume": 34380180,
         "nonRegularValue": 9242025410.0,
-        "ma20": 158,
-        "ma50": 158,
+        "ma20": 155,
+        "ma50": 155,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780851600000,
-        "dateStr": "08 Jun 2026",
+        "dateStr": "07 Jun 2026",
         "open": 132.0,
         "high": 139.0,
         "low": 126.0,
@@ -225,14 +206,14 @@
         "offerVolume": 41330200,
         "nonRegularVolume": 246423710,
         "nonRegularValue": 36478254430.0,
-        "ma20": 154,
-        "ma50": 154,
+        "ma20": 152,
+        "ma50": 152,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1780938000000,
-        "dateStr": "09 Jun 2026",
+        "dateStr": "08 Jun 2026",
         "open": 130.0,
         "high": 148.0,
         "low": 129.0,
@@ -244,14 +225,14 @@
         "offerVolume": 15515500,
         "nonRegularVolume": 69915100,
         "nonRegularValue": 14709101700.0,
-        "ma20": 153,
-        "ma50": 153,
+        "ma20": 151,
+        "ma50": 151,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781024400000,
-        "dateStr": "10 Jun 2026",
+        "dateStr": "09 Jun 2026",
         "open": 146.0,
         "high": 157.0,
         "low": 142.0,
@@ -263,14 +244,14 @@
         "offerVolume": 10496300,
         "nonRegularVolume": 1500087,
         "nonRegularValue": 348012838.0,
-        "ma20": 152,
-        "ma50": 152,
+        "ma20": 150,
+        "ma50": 150,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781110800000,
-        "dateStr": "11 Jun 2026",
+        "dateStr": "10 Jun 2026",
         "open": 144.0,
         "high": 147.0,
         "low": 136.0,
@@ -282,14 +263,14 @@
         "offerVolume": 11678300,
         "nonRegularVolume": 8108706,
         "nonRegularValue": 1183870496.0,
-        "ma20": 151,
-        "ma50": 151,
+        "ma20": 149,
+        "ma50": 149,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781197200000,
-        "dateStr": "12 Jun 2026",
+        "dateStr": "11 Jun 2026",
         "open": 144.0,
         "high": 162.0,
         "low": 143.0,
@@ -301,14 +282,14 @@
         "offerVolume": 30020500,
         "nonRegularVolume": 140143100,
         "nonRegularValue": 27793564700.0,
-        "ma20": 152,
-        "ma50": 152,
+        "ma20": 150,
+        "ma50": 150,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781456400000,
-        "dateStr": "15 Jun 2026",
+        "dateStr": "14 Jun 2026",
         "open": 165.0,
         "high": 191.0,
         "low": 163.0,
@@ -320,14 +301,14 @@
         "offerVolume": 24583800,
         "nonRegularVolume": 110470015,
         "nonRegularValue": 18436560595.0,
-        "ma20": 153,
-        "ma50": 153,
+        "ma20": 152,
+        "ma50": 152,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781629200000,
-        "dateStr": "17 Jun 2026",
+        "dateStr": "16 Jun 2026",
         "open": 175.0,
         "high": 178.0,
         "low": 165.0,
@@ -339,14 +320,14 @@
         "offerVolume": 18788800,
         "nonRegularVolume": 4114028,
         "nonRegularValue": 890954704.0,
-        "ma20": 154,
-        "ma50": 154,
+        "ma20": 153,
+        "ma50": 153,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781715600000,
-        "dateStr": "18 Jun 2026",
+        "dateStr": "17 Jun 2026",
         "open": 169.0,
         "high": 173.0,
         "low": 163.0,
@@ -358,14 +339,14 @@
         "offerVolume": 25046700,
         "nonRegularVolume": 63800100,
         "nonRegularValue": 14428420000.0,
-        "ma20": 155,
-        "ma50": 155,
+        "ma20": 154,
+        "ma50": 154,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1781802000000,
-        "dateStr": "19 Jun 2026",
+        "dateStr": "18 Jun 2026",
         "open": 172.0,
         "high": 177.0,
         "low": 167.0,
@@ -377,14 +358,14 @@
         "offerVolume": 11262200,
         "nonRegularVolume": 80450040,
         "nonRegularValue": 13601806920.0,
-        "ma20": 156,
-        "ma50": 156,
+        "ma20": 155,
+        "ma50": 155,
         "rsi": 50.91,
         "rsiSector": 50.41
       },
       {
         "date": 1782061200000,
-        "dateStr": "22 Jun 2026",
+        "dateStr": "21 Jun 2026",
         "open": 169.0,
         "high": 170.0,
         "low": 160.0,
@@ -396,14 +377,14 @@
         "offerVolume": 60811200,
         "nonRegularVolume": 93564100,
         "nonRegularValue": 16384381600.0,
-        "ma20": 157,
-        "ma50": 157,
+        "ma20": 156,
+        "ma50": 156,
         "rsi": 47.37,
         "rsiSector": 48.82
       },
       {
         "date": 1782147600000,
-        "dateStr": "23 Jun 2026",
+        "dateStr": "22 Jun 2026",
         "open": 162.0,
         "high": 169.0,
         "low": 157.0,
@@ -415,14 +396,14 @@
         "offerVolume": 16804200,
         "nonRegularVolume": 455128600,
         "nonRegularValue": 77813692500.0,
-        "ma20": 157,
-        "ma50": 157,
+        "ma20": 156,
+        "ma50": 156,
         "rsi": 52.68,
         "rsiSector": 51.21
       },
       {
         "date": 1782234000000,
-        "dateStr": "24 Jun 2026",
+        "dateStr": "23 Jun 2026",
         "open": 167.0,
         "high": 168.0,
         "low": 145.0,
@@ -434,14 +415,14 @@
         "offerVolume": 30886700,
         "nonRegularVolume": 79470000,
         "nonRegularValue": 13841350000.0,
-        "ma20": 157,
-        "ma50": 157,
+        "ma20": 156,
+        "ma50": 156,
         "rsi": 49.17,
         "rsiSector": 49.63
       },
       {
         "date": 1782320400000,
-        "dateStr": "25 Jun 2026",
+        "dateStr": "24 Jun 2026",
         "open": 146.0,
         "high": 152.0,
         "low": 143.0,
@@ -453,14 +434,14 @@
         "offerVolume": 17858700,
         "nonRegularVolume": 20010896,
         "nonRegularValue": 2921364016.0,
-        "ma20": 156,
-        "ma50": 156,
+        "ma20": 155,
+        "ma50": 155,
         "rsi": 49.17,
         "rsiSector": 49.63
       },
       {
         "date": 1782406800000,
-        "dateStr": "26 Jun 2026",
+        "dateStr": "25 Jun 2026",
         "open": 148.0,
         "high": 149.0,
         "low": 139.0,
@@ -479,7 +460,7 @@
       },
       {
         "date": 1782666000000,
-        "dateStr": "29 Jun 2026",
+        "dateStr": "28 Jun 2026",
         "open": 142.0,
         "high": 145.0,
         "low": 139.0,
@@ -492,13 +473,13 @@
         "nonRegularVolume": 44222400,
         "nonRegularValue": 6480359300.0,
         "ma20": 153,
-        "ma50": 155,
+        "ma50": 154,
         "rsi": 55.14,
         "rsiSector": 52.31
       },
       {
         "date": 1782752400000,
-        "dateStr": "30 Jun 2026",
+        "dateStr": "29 Jun 2026",
         "open": 140.0,
         "high": 141.0,
         "low": 130.0,
@@ -511,13 +492,13 @@
         "nonRegularVolume": 195511544,
         "nonRegularValue": 27672886116.0,
         "ma20": 152,
-        "ma50": 154,
+        "ma50": 153,
         "rsi": 43.0,
         "rsiSector": 46.85
       },
       {
         "date": 1782838800000,
-        "dateStr": "01 Jul 2026",
+        "dateStr": "30 Jun 2026",
         "open": 132.0,
         "high": 138.0,
         "low": 129.0,
@@ -530,13 +511,13 @@
         "nonRegularVolume": 242025325,
         "nonRegularValue": 44145660800.0,
         "ma20": 150,
-        "ma50": 153,
+        "ma50": 152,
         "rsi": 45.54,
         "rsiSector": 47.99
       },
       {
         "date": 1782925200000,
-        "dateStr": "02 Jul 2026",
+        "dateStr": "01 Jul 2026",
         "open": 135.0,
         "high": 142.0,
         "low": 133.0,
@@ -555,7 +536,7 @@
       },
       {
         "date": 1783011600000,
-        "dateStr": "03 Jul 2026",
+        "dateStr": "02 Jul 2026",
         "open": 138.0,
         "high": 143.0,
         "low": 137.0,
@@ -568,13 +549,13 @@
         "nonRegularVolume": 24222500,
         "nonRegularValue": 2975289600.0,
         "ma20": 149,
-        "ma50": 152,
+        "ma50": 151,
         "rsi": 39.29,
         "rsiSector": 45.18
       },
       {
         "date": 1783270800000,
-        "dateStr": "06 Jul 2026",
+        "dateStr": "05 Jul 2026",
         "open": 141.0,
         "high": 145.0,
         "low": 137.0,
@@ -593,7 +574,7 @@
       },
       {
         "date": 1783357200000,
-        "dateStr": "07 Jul 2026",
+        "dateStr": "06 Jul 2026",
         "open": 142.0,
         "high": 143.0,
         "low": 139.0,
@@ -606,13 +587,13 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 150,
-        "ma50": 151,
+        "ma50": 150,
         "rsi": 28.79,
         "rsiSector": 40.46
       },
       {
         "date": 1783443600000,
-        "dateStr": "08 Jul 2026",
+        "dateStr": "07 Jul 2026",
         "open": 139.0,
         "high": 140.0,
         "low": 136.0,
@@ -631,7 +612,7 @@
       },
       {
         "date": 1783530000000,
-        "dateStr": "09 Jul 2026",
+        "dateStr": "08 Jul 2026",
         "open": 137.0,
         "high": 146.0,
         "low": 136.0,
@@ -644,13 +625,13 @@
         "nonRegularVolume": 67805124,
         "nonRegularValue": 16795756310.0,
         "ma20": 149,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 30.43,
         "rsiSector": 41.19
       },
       {
         "date": 1783616400000,
-        "dateStr": "10 Jul 2026",
+        "dateStr": "09 Jul 2026",
         "open": 142.0,
         "high": 143.0,
         "low": 140.0,
@@ -663,13 +644,13 @@
         "nonRegularVolume": 5155523,
         "nonRegularValue": 927249956.0,
         "ma20": 149,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 34.38,
         "rsiSector": 42.97
       },
       {
         "date": 1783875600000,
-        "dateStr": "13 Jul 2026",
+        "dateStr": "12 Jul 2026",
         "open": 142.0,
         "high": 148.0,
         "low": 139.0,
@@ -682,13 +663,13 @@
         "nonRegularVolume": 114303250,
         "nonRegularValue": 17106725350.0,
         "ma20": 149,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 34.38,
         "rsiSector": 42.97
       },
       {
         "date": 1783962000000,
-        "dateStr": "14 Jul 2026",
+        "dateStr": "13 Jul 2026",
         "open": 148.0,
         "high": 155.0,
         "low": 146.0,
@@ -701,13 +682,13 @@
         "nonRegularVolume": 27000141,
         "nonRegularValue": 10033020559.0,
         "ma20": 147,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 53.33,
         "rsiSector": 51.5
       },
       {
         "date": 1784048400000,
-        "dateStr": "15 Jul 2026",
+        "dateStr": "14 Jul 2026",
         "open": 150.0,
         "high": 152.0,
         "low": 147.0,
@@ -720,13 +701,13 @@
         "nonRegularVolume": 6003500,
         "nonRegularValue": 1200514500.0,
         "ma20": 146,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
       {
         "date": 1784134800000,
-        "dateStr": "16 Jul 2026",
+        "dateStr": "15 Jul 2026",
         "open": 148.0,
         "high": 152.0,
         "low": 147.0,
@@ -739,13 +720,13 @@
         "nonRegularVolume": 8765000,
         "nonRegularValue": 1743720000.0,
         "ma20": 145,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 60.53,
         "rsiSector": 54.74
       },
       {
         "date": 1784221200000,
-        "dateStr": "17 Jul 2026",
+        "dateStr": "16 Jul 2026",
         "open": 149.0,
         "high": 152.0,
         "low": 147.0,
@@ -758,13 +739,13 @@
         "nonRegularVolume": 80605000,
         "nonRegularValue": 18101330000.0,
         "ma20": 144,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 61.54,
         "rsiSector": 55.19
       },
       {
         "date": 1784480400000,
-        "dateStr": "20 Jul 2026",
+        "dateStr": "19 Jul 2026",
         "open": 151.0,
         "high": 160.0,
         "low": 150.0,
@@ -777,13 +758,13 @@
         "nonRegularVolume": 5575000,
         "nonRegularValue": 1118000000.0,
         "ma20": 144,
-        "ma50": 150,
+        "ma50": 149,
         "rsi": 84.62,
         "rsiSector": 65.58
       },
       {
         "date": 1784566800000,
-        "dateStr": "21 Jul 2026",
+        "dateStr": "20 Jul 2026",
         "open": 160.0,
         "high": 171.0,
         "low": 157.0,
@@ -802,7 +783,7 @@
       },
       {
         "date": 1784653200000,
-        "dateStr": "22 Jul 2026",
+        "dateStr": "21 Jul 2026",
         "open": 170.0,
         "high": 170.0,
         "low": 164.0,
@@ -815,13 +796,13 @@
         "nonRegularVolume": 30638465,
         "nonRegularValue": 12114572260.0,
         "ma20": 145,
-        "ma50": 151,
+        "ma50": 150,
         "rsi": 86.67,
         "rsiSector": 66.5
       },
       {
         "date": 1784739600000,
-        "dateStr": "23 Jul 2026",
+        "dateStr": "22 Jul 2026",
         "open": 169.0,
         "high": 196.0,
         "low": 169.0,
@@ -834,13 +815,13 @@
         "nonRegularVolume": 27857700,
         "nonRegularValue": 4423255000.0,
         "ma20": 147,
-        "ma50": 152,
+        "ma50": 151,
         "rsi": 89.29,
         "rsiSector": 67.68
       },
       {
         "date": 1784826000000,
-        "dateStr": "24 Jul 2026",
+        "dateStr": "23 Jul 2026",
         "open": 180.0,
         "high": 183.0,
         "low": 168.0,
@@ -859,7 +840,7 @@
       },
       {
         "date": 1785085200000,
-        "dateStr": "27 Jul 2026",
+        "dateStr": "26 Jul 2026",
         "open": 171.0,
         "high": 176.0,
         "low": 167.0,
@@ -872,13 +853,13 @@
         "nonRegularVolume": 52065068,
         "nonRegularValue": 13217501628.0,
         "ma20": 150,
-        "ma50": 153,
+        "ma50": 152,
         "rsi": 72.73,
         "rsiSector": 60.23
       },
       {
         "date": 1785171600000,
-        "dateStr": "28 Jul 2026",
+        "dateStr": "27 Jul 2026",
         "open": 171.0,
         "high": 173.0,
         "low": 165.0,
@@ -891,13 +872,13 @@
         "nonRegularVolume": 24625800,
         "nonRegularValue": 3981586000.0,
         "ma20": 152,
-        "ma50": 153,
+        "ma50": 152,
         "rsi": 71.64,
         "rsiSector": 59.74
       },
       {
         "date": 1785258000000,
-        "dateStr": "29 Jul 2026",
+        "dateStr": "28 Jul 2026",
         "open": 166.0,
         "high": 169.0,
         "low": 157.0,
@@ -916,7 +897,7 @@
       },
       {
         "date": 1785344400000,
-        "dateStr": "30 Jul 2026",
+        "dateStr": "29 Jul 2026",
         "open": 162.0,
         "high": 164.0,
         "low": 158.0,
@@ -935,7 +916,7 @@
       },
       {
         "date": 1785430800000,
-        "dateStr": "31 Jul 2026",
+        "dateStr": "30 Jul 2026",
         "open": 165.0,
         "high": 168.0,
         "low": 162.0,
@@ -954,7 +935,7 @@
       },
       {
         "date": 1785690000000,
-        "dateStr": "03 Aug 2026",
+        "dateStr": "02 Aug 2026",
         "open": 169.0,
         "high": 173.0,
         "low": 166.0,
@@ -967,13 +948,13 @@
         "nonRegularVolume": 10000381,
         "nonRegularValue": 1730064316.0,
         "ma20": 157,
-        "ma50": 154,
+        "ma50": 153,
         "rsi": 63.77,
         "rsiSector": 56.2
       },
       {
         "date": 1785776400000,
-        "dateStr": "04 Aug 2026",
+        "dateStr": "03 Aug 2026",
         "open": 169.0,
         "high": 170.0,
         "low": 166.0,
@@ -992,7 +973,7 @@
       },
       {
         "date": 1785862800000,
-        "dateStr": "05 Aug 2026",
+        "dateStr": "04 Aug 2026",
         "open": 170.0,
         "high": 181.0,
         "low": 169.0,
@@ -1005,13 +986,13 @@
         "nonRegularVolume": 5215000,
         "nonRegularValue": 1014215000.0,
         "ma20": 161,
-        "ma50": 155,
+        "ma50": 154,
         "rsi": 69.23,
         "rsiSector": 58.65
       },
       {
         "date": 1785949200000,
-        "dateStr": "06 Aug 2026",
+        "dateStr": "05 Aug 2026",
         "open": 181.0,
         "high": 183.0,
         "low": 176.0,
@@ -1030,7 +1011,7 @@
       },
       {
         "date": 1786035600000,
-        "dateStr": "07 Aug 2026",
+        "dateStr": "06 Aug 2026",
         "open": 180.0,
         "high": 189.0,
         "low": 179.0,
@@ -1049,7 +1030,7 @@
       },
       {
         "date": 1786294800000,
-        "dateStr": "10 Aug 2026",
+        "dateStr": "09 Aug 2026",
         "open": 189.0,
         "high": 194.0,
         "low": 186.0,
@@ -1068,7 +1049,7 @@
       },
       {
         "date": 1786381200000,
-        "dateStr": "11 Aug 2026",
+        "dateStr": "10 Aug 2026",
         "open": 188.0,
         "high": 189.0,
         "low": 176.0,
@@ -1087,7 +1068,7 @@
       },
       {
         "date": 1786467600000,
-        "dateStr": "12 Aug 2026",
+        "dateStr": "11 Aug 2026",
         "open": 179.0,
         "high": 185.0,
         "low": 179.0,
@@ -1106,7 +1087,7 @@
       },
       {
         "date": 1786554000000,
-        "dateStr": "13 Aug 2026",
+        "dateStr": "12 Aug 2026",
         "open": 186.0,
         "high": 187.0,
         "low": 177.0,
@@ -1125,7 +1106,7 @@
       },
       {
         "date": 1786640400000,
-        "dateStr": "14 Aug 2026",
+        "dateStr": "13 Aug 2026",
         "open": 178.0,
         "high": 183.0,
         "low": 174.0,
@@ -1144,7 +1125,7 @@
       },
       {
         "date": 1786986000000,
-        "dateStr": "18 Aug 2026",
+        "dateStr": "17 Aug 2026",
         "open": 183.0,
         "high": 187.0,
         "low": 182.0,
@@ -1163,7 +1144,7 @@
       },
       {
         "date": 1787072400000,
-        "dateStr": "19 Aug 2026",
+        "dateStr": "18 Aug 2026",
         "open": 184.0,
         "high": 185.0,
         "low": 181.0,
@@ -1182,7 +1163,7 @@
       },
       {
         "date": 1787158800000,
-        "dateStr": "20 Aug 2026",
+        "dateStr": "19 Aug 2026",
         "open": 184.0,
         "high": 191.0,
         "low": 183.0,
@@ -1201,7 +1182,7 @@
       },
       {
         "date": 1787245200000,
-        "dateStr": "21 Aug 2026",
+        "dateStr": "20 Aug 2026",
         "open": 191.0,
         "high": 202.0,
         "low": 189.0,
@@ -1220,7 +1201,7 @@
       },
       {
         "date": 1787504400000,
-        "dateStr": "24 Aug 2026",
+        "dateStr": "23 Aug 2026",
         "open": 199.0,
         "high": 202.0,
         "low": 193.0,
@@ -1239,7 +1220,7 @@
       },
       {
         "date": 1787677200000,
-        "dateStr": "26 Aug 2026",
+        "dateStr": "25 Aug 2026",
         "open": 194.0,
         "high": 195.0,
         "low": 184.0,
@@ -1258,7 +1239,7 @@
       },
       {
         "date": 1787763600000,
-        "dateStr": "27 Aug 2026",
+        "dateStr": "26 Aug 2026",
         "open": 181.0,
         "high": 194.0,
         "low": 181.0,
@@ -1277,7 +1258,7 @@
       },
       {
         "date": 1787850000000,
-        "dateStr": "28 Aug 2026",
+        "dateStr": "27 Aug 2026",
         "open": 195.0,
         "high": 198.0,
         "low": 189.0,
@@ -1296,7 +1277,7 @@
       },
       {
         "date": 1788109200000,
-        "dateStr": "31 Aug 2026",
+        "dateStr": "30 Aug 2026",
         "open": 190.0,
         "high": 194.0,
         "low": 188.0,
@@ -1315,7 +1296,7 @@
       },
       {
         "date": 1788195600000,
-        "dateStr": "01 Sep 2026",
+        "dateStr": "31 Aug 2026",
         "open": 193.0,
         "high": 208.0,
         "low": 193.0,
@@ -1334,7 +1315,7 @@
       },
       {
         "date": 1788282000000,
-        "dateStr": "02 Sep 2026",
+        "dateStr": "01 Sep 2026",
         "open": 210.0,
         "high": 210.0,
         "low": 204.0,
@@ -1353,7 +1334,7 @@
       },
       {
         "date": 1788368400000,
-        "dateStr": "03 Sep 2026",
+        "dateStr": "02 Sep 2026",
         "open": 208.0,
         "high": 216.0,
         "low": 206.0,
@@ -1372,7 +1353,7 @@
       },
       {
         "date": 1788454800000,
-        "dateStr": "04 Sep 2026",
+        "dateStr": "03 Sep 2026",
         "open": 210.0,
         "high": 210.0,
         "low": 206.0,
@@ -1391,7 +1372,7 @@
       },
       {
         "date": 1788714000000,
-        "dateStr": "07 Sep 2026",
+        "dateStr": "06 Sep 2026",
         "open": 210.0,
         "high": 226.0,
         "low": 210.0,
@@ -1410,7 +1391,7 @@
       },
       {
         "date": 1788800400000,
-        "dateStr": "08 Sep 2026",
+        "dateStr": "07 Sep 2026",
         "open": 222.0,
         "high": 232.0,
         "low": 222.0,
@@ -1429,7 +1410,7 @@
       },
       {
         "date": 1788886800000,
-        "dateStr": "09 Sep 2026",
+        "dateStr": "08 Sep 2026",
         "open": 226.0,
         "high": 228.0,
         "low": 220.0,
@@ -1448,7 +1429,7 @@
       },
       {
         "date": 1788973200000,
-        "dateStr": "10 Sep 2026",
+        "dateStr": "09 Sep 2026",
         "open": 222.0,
         "high": 228.0,
         "low": 212.0,
@@ -1467,7 +1448,7 @@
       },
       {
         "date": 1789059600000,
-        "dateStr": "11 Sep 2026",
+        "dateStr": "10 Sep 2026",
         "open": 210.0,
         "high": 214.0,
         "low": 206.0,
@@ -1486,7 +1467,7 @@
       },
       {
         "date": 1789318800000,
-        "dateStr": "14 Sep 2026",
+        "dateStr": "13 Sep 2026",
         "open": 212.0,
         "high": 214.0,
         "low": 199.0,
@@ -1505,7 +1486,7 @@
       },
       {
         "date": 1789405200000,
-        "dateStr": "15 Sep 2026",
+        "dateStr": "14 Sep 2026",
         "open": 210.0,
         "high": 212.0,
         "low": 204.0,
@@ -1524,7 +1505,7 @@
       },
       {
         "date": 1789491600000,
-        "dateStr": "16 Sep 2026",
+        "dateStr": "15 Sep 2026",
         "open": 208.0,
         "high": 210.0,
         "low": 200.0,
@@ -1543,7 +1524,7 @@
       },
       {
         "date": 1789578000000,
-        "dateStr": "17 Sep 2026",
+        "dateStr": "16 Sep 2026",
         "open": 202.0,
         "high": 206.0,
         "low": 196.0,
@@ -1562,7 +1543,7 @@
       },
       {
         "date": 1789664400000,
-        "dateStr": "18 Sep 2026",
+        "dateStr": "17 Sep 2026",
         "open": 202.0,
         "high": 204.0,
         "low": 192.0,
@@ -1581,7 +1562,7 @@
       },
       {
         "date": 1789923600000,
-        "dateStr": "21 Sep 2026",
+        "dateStr": "20 Sep 2026",
         "open": 193.0,
         "high": 197.0,
         "low": 191.0,
@@ -1600,7 +1581,7 @@
       },
       {
         "date": 1790010000000,
-        "dateStr": "22 Sep 2026",
+        "dateStr": "21 Sep 2026",
         "open": 193.0,
         "high": 194.0,
         "low": 182.0,
@@ -1619,7 +1600,7 @@
       },
       {
         "date": 1790096400000,
-        "dateStr": "23 Sep 2026",
+        "dateStr": "22 Sep 2026",
         "open": 185.0,
         "high": 194.0,
         "low": 182.0,
@@ -1638,7 +1619,7 @@
       },
       {
         "date": 1790182800000,
-        "dateStr": "24 Sep 2026",
+        "dateStr": "23 Sep 2026",
         "open": 191.0,
         "high": 192.0,
         "low": 184.0,
@@ -1657,7 +1638,7 @@
       },
       {
         "date": 1790269200000,
-        "dateStr": "25 Sep 2026",
+        "dateStr": "24 Sep 2026",
         "open": 186.0,
         "high": 187.0,
         "low": 181.0,
@@ -1676,7 +1657,7 @@
       },
       {
         "date": 1790528400000,
-        "dateStr": "28 Sep 2026",
+        "dateStr": "27 Sep 2026",
         "open": 183.0,
         "high": 185.0,
         "low": 180.0,
@@ -1695,7 +1676,7 @@
       },
       {
         "date": 1790614800000,
-        "dateStr": "29 Sep 2026",
+        "dateStr": "28 Sep 2026",
         "open": 180.0,
         "high": 180.0,
         "low": 171.0,
@@ -1714,7 +1695,7 @@
       },
       {
         "date": 1790701200000,
-        "dateStr": "30 Sep 2026",
+        "dateStr": "29 Sep 2026",
         "open": 179.0,
         "high": 183.0,
         "low": 175.0,
@@ -1733,7 +1714,7 @@
       },
       {
         "date": 1790787600000,
-        "dateStr": "01 Oct 2026",
+        "dateStr": "30 Sep 2026",
         "open": 175.0,
         "high": 177.0,
         "low": 168.0,
@@ -1752,7 +1733,7 @@
       },
       {
         "date": 1790874000000,
-        "dateStr": "02 Oct 2026",
+        "dateStr": "01 Oct 2026",
         "open": 172.0,
         "high": 176.0,
         "low": 167.0,
@@ -1771,7 +1752,7 @@
       },
       {
         "date": 1791133200000,
-        "dateStr": "05 Oct 2026",
+        "dateStr": "04 Oct 2026",
         "open": 176.0,
         "high": 179.0,
         "low": 173.0,
@@ -1790,7 +1771,7 @@
       },
       {
         "date": 1791219600000,
-        "dateStr": "06 Oct 2026",
+        "dateStr": "05 Oct 2026",
         "open": 180.0,
         "high": 187.0,
         "low": 179.0,
@@ -1809,7 +1790,7 @@
       },
       {
         "date": 1791306000000,
-        "dateStr": "07 Oct 2026",
+        "dateStr": "06 Oct 2026",
         "open": 185.0,
         "high": 185.0,
         "low": 179.0,
@@ -1828,7 +1809,7 @@
       },
       {
         "date": 1791392400000,
-        "dateStr": "08 Oct 2026",
+        "dateStr": "07 Oct 2026",
         "open": 179.0,
         "high": 182.0,
         "low": 174.0,
@@ -1847,7 +1828,7 @@
       },
       {
         "date": 1791478800000,
-        "dateStr": "09 Oct 2026",
+        "dateStr": "08 Oct 2026",
         "open": 174.0,
         "high": 181.0,
         "low": 171.0,
@@ -1866,7 +1847,7 @@
       },
       {
         "date": 1791738000000,
-        "dateStr": "12 Oct 2026",
+        "dateStr": "11 Oct 2026",
         "open": 182.0,
         "high": 182.0,
         "low": 164.0,
@@ -1885,7 +1866,7 @@
       },
       {
         "date": 1791824400000,
-        "dateStr": "13 Oct 2026",
+        "dateStr": "12 Oct 2026",
         "open": 164.0,
         "high": 169.0,
         "low": 161.0,
@@ -1904,7 +1885,7 @@
       },
       {
         "date": 1791910800000,
-        "dateStr": "14 Oct 2026",
+        "dateStr": "13 Oct 2026",
         "open": 167.0,
         "high": 171.0,
         "low": 164.0,
@@ -1923,7 +1904,7 @@
       },
       {
         "date": 1791997200000,
-        "dateStr": "15 Oct 2026",
+        "dateStr": "14 Oct 2026",
         "open": 163.0,
         "high": 163.0,
         "low": 155.0,
@@ -1942,7 +1923,7 @@
       },
       {
         "date": 1792083600000,
-        "dateStr": "16 Oct 2026",
+        "dateStr": "15 Oct 2026",
         "open": 134.0,
         "high": 134.0,
         "low": 134.0,
@@ -1961,7 +1942,7 @@
       },
       {
         "date": 1792342800000,
-        "dateStr": "19 Oct 2026",
+        "dateStr": "18 Oct 2026",
         "open": 125.0,
         "high": 125.0,
         "low": 125.0,
@@ -1980,7 +1961,7 @@
       },
       {
         "date": 1792429200000,
-        "dateStr": "20 Oct 2026",
+        "dateStr": "19 Oct 2026",
         "open": 117.0,
         "high": 136.0,
         "low": 117.0,
@@ -1999,7 +1980,7 @@
       },
       {
         "date": 1792515600000,
-        "dateStr": "21 Oct 2026",
+        "dateStr": "20 Oct 2026",
         "open": 137.0,
         "high": 137.0,
         "low": 127.0,
@@ -2018,7 +1999,7 @@
       },
       {
         "date": 1792602000000,
-        "dateStr": "22 Oct 2026",
+        "dateStr": "21 Oct 2026",
         "open": 130.0,
         "high": 146.0,
         "low": 129.0,
@@ -2037,7 +2018,7 @@
       },
       {
         "date": 1792688400000,
-        "dateStr": "23 Oct 2026",
+        "dateStr": "22 Oct 2026",
         "open": 139.0,
         "high": 143.0,
         "low": 138.0,
@@ -2056,7 +2037,7 @@
       },
       {
         "date": 1792947600000,
-        "dateStr": "26 Oct 2026",
+        "dateStr": "25 Oct 2026",
         "open": 140.0,
         "high": 145.0,
         "low": 137.0,
@@ -2075,7 +2056,7 @@
       },
       {
         "date": 1793034000000,
-        "dateStr": "27 Oct 2026",
+        "dateStr": "26 Oct 2026",
         "open": 137.0,
         "high": 141.0,
         "low": 128.0,
@@ -2094,7 +2075,7 @@
       },
       {
         "date": 1793120400000,
-        "dateStr": "28 Oct 2026",
+        "dateStr": "27 Oct 2026",
         "open": 127.0,
         "high": 129.0,
         "low": 120.0,
@@ -2113,7 +2094,7 @@
       },
       {
         "date": 1793206800000,
-        "dateStr": "29 Oct 2026",
+        "dateStr": "28 Oct 2026",
         "open": 129.0,
         "high": 131.0,
         "low": 120.0,
@@ -2132,7 +2113,7 @@
       },
       {
         "date": 1793293200000,
-        "dateStr": "30 Oct 2026",
+        "dateStr": "29 Oct 2026",
         "open": 120.0,
         "high": 123.0,
         "low": 115.0,
@@ -2151,7 +2132,7 @@
       },
       {
         "date": 1793552400000,
-        "dateStr": "02 Nov 2026",
+        "dateStr": "01 Nov 2026",
         "open": 120.0,
         "high": 131.0,
         "low": 117.0,
@@ -2170,7 +2151,7 @@
       },
       {
         "date": 1793638800000,
-        "dateStr": "03 Nov 2026",
+        "dateStr": "02 Nov 2026",
         "open": 129.0,
         "high": 131.0,
         "low": 120.0,
@@ -2189,7 +2170,7 @@
       },
       {
         "date": 1793725200000,
-        "dateStr": "04 Nov 2026",
+        "dateStr": "03 Nov 2026",
         "open": 115.0,
         "high": 119.0,
         "low": 112.0,
@@ -2208,7 +2189,7 @@
       },
       {
         "date": 1793811600000,
-        "dateStr": "05 Nov 2026",
+        "dateStr": "04 Nov 2026",
         "open": 119.0,
         "high": 125.0,
         "low": 117.0,
@@ -2227,7 +2208,7 @@
       },
       {
         "date": 1793898000000,
-        "dateStr": "06 Nov 2026",
+        "dateStr": "05 Nov 2026",
         "open": 112.0,
         "high": 118.0,
         "low": 112.0,
@@ -2246,7 +2227,7 @@
       },
       {
         "date": 1794157200000,
-        "dateStr": "09 Nov 2026",
+        "dateStr": "08 Nov 2026",
         "open": 117.0,
         "high": 120.0,
         "low": 115.0,
@@ -2265,7 +2246,7 @@
       },
       {
         "date": 1794243600000,
-        "dateStr": "10 Nov 2026",
+        "dateStr": "09 Nov 2026",
         "open": 118.0,
         "high": 121.0,
         "low": 116.0,
@@ -2284,7 +2265,7 @@
       },
       {
         "date": 1794330000000,
-        "dateStr": "11 Nov 2026",
+        "dateStr": "10 Nov 2026",
         "open": 121.0,
         "high": 124.0,
         "low": 119.0,
@@ -2303,7 +2284,7 @@
       },
       {
         "date": 1794416400000,
-        "dateStr": "12 Nov 2026",
+        "dateStr": "11 Nov 2026",
         "open": 120.0,
         "high": 131.0,
         "low": 120.0,
@@ -2322,7 +2303,7 @@
       },
       {
         "date": 1794502800000,
-        "dateStr": "13 Nov 2026",
+        "dateStr": "12 Nov 2026",
         "open": 128.0,
         "high": 138.0,
         "low": 126.0,
@@ -2338,6 +2319,44 @@
         "ma50": 162,
         "rsi": 49.23,
         "rsiSector": 49.65
+      },
+      {
+        "date": 1794762000000,
+        "dateStr": "15 Nov 2026",
+        "open": 135.0,
+        "high": 140.0,
+        "low": 129.0,
+        "close": 131.0,
+        "volume": 3769887400,
+        "value": 506595034400.0,
+        "foreignNet": -407258000,
+        "bidVolume": 18171400,
+        "offerVolume": 50865800,
+        "nonRegularVolume": 13000000,
+        "nonRegularValue": 2367000000.0,
+        "ma20": 126,
+        "ma50": 161,
+        "rsi": 52.46,
+        "rsiSector": 51.11
+      },
+      {
+        "date": 1794848400000,
+        "dateStr": "16 Nov 2026",
+        "open": 131.0,
+        "high": 135.0,
+        "low": 129.0,
+        "close": 131.0,
+        "volume": 1404071500,
+        "value": 184987005400.0,
+        "foreignNet": -106162600,
+        "bidVolume": 19666100,
+        "offerVolume": 19644700,
+        "nonRegularVolume": 2900000,
+        "nonRegularValue": 508900000.0,
+        "ma20": 126,
+        "ma50": 159,
+        "rsi": 53.33,
+        "rsiSector": 51.5
       }
     ]
   }

@@ -3,80 +3,80 @@
     {
       "sector": "CONSUMER GOODS INDUSTRY",
       "count": 1,
-      "averageMomentum": 57.76,
-      "score": 1.944
-    },
-    {
-      "sector": "Consumer Cyclicals",
-      "count": 153,
-      "averageMomentum": 11.95,
-      "score": 0.799
+      "averageMomentum": 69.64,
+      "score": 2.241
     },
     {
       "sector": "Transportation & Logistic",
       "count": 40,
-      "averageMomentum": 11.72,
-      "score": 0.793
+      "averageMomentum": 14.59,
+      "score": 0.865
     },
     {
-      "sector": "No Sector",
-      "count": 1,
-      "averageMomentum": -5.0,
-      "score": 0.375
+      "sector": "Consumer Cyclicals",
+      "count": 153,
+      "averageMomentum": 14.02,
+      "score": 0.85
     },
     {
       "sector": "Basic Materials",
       "count": 109,
-      "averageMomentum": -5.13,
-      "score": 0.372
+      "averageMomentum": -4.26,
+      "score": 0.394
+    },
+    {
+      "sector": "No Sector",
+      "count": 1,
+      "averageMomentum": -6.72,
+      "score": 0.332
     },
     {
       "sector": "Consumer Non-Cyclicals",
       "count": 130,
-      "averageMomentum": -8.52,
-      "score": 0.287
+      "averageMomentum": -6.98,
+      "score": 0.326
     },
     {
       "sector": "Energy",
       "count": 90,
-      "averageMomentum": -12.31,
-      "score": 0.192
+      "averageMomentum": -11.22,
+      "score": 0.219
     },
     {
       "sector": "Financials",
       "count": 104,
-      "averageMomentum": -12.91,
-      "score": 0.177
+      "averageMomentum": -11.33,
+      "score": 0.217
     },
     {
       "sector": "Healthcare",
       "count": 38,
-      "averageMomentum": -13.67,
-      "score": 0.158
-    },
-    {
-      "sector": "Infrastructures",
-      "count": 68,
-      "averageMomentum": -20.4,
-      "score": -0.01
+      "averageMomentum": -14.22,
+      "score": 0.144
     },
     {
       "sector": "Properties & Real Estate",
       "count": 90,
-      "averageMomentum": -21.03,
-      "score": -0.026
+      "averageMomentum": -19.63,
+      "score": 0.009
     },
     {
       "sector": "Industrials",
       "count": 66,
-      "averageMomentum": -21.95,
-      "score": -0.049
+      "averageMomentum": -19.72,
+      "score": 0.007
+    },
+    {
+      "sector": "Infrastructures",
+      "count": 68,
+      "averageMomentum": -19.76,
+      "score": 0.006
     },
     {
       "sector": "Technology",
       "count": 45,
-      "averageMomentum": -23.67,
-      "score": -0.092
+      "averageMomentum": -21.59,
+      "score": -0.04
     }
   ]
 }
