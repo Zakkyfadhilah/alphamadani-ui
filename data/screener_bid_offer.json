@@ -1,82 +1,82 @@
 {
-  "date": 20261118,
+  "date": 20261119,
   "data": [
     {
       "sector": "Technology",
-      "bidVolume": 7465666900,
-      "offerVolume": 3700291300,
+      "bidVolume": 2906892700,
+      "offerVolume": 3569547500,
       "count": 48
     },
     {
-      "sector": "Properties & Real Estate",
-      "bidVolume": 245027000,
-      "offerVolume": 200211200,
-      "count": 92
-    },
-    {
-      "sector": "Transportation & Logistic",
-      "bidVolume": 219604300,
-      "offerVolume": 32423000,
-      "count": 40
-    },
-    {
       "sector": "Consumer Non-Cyclicals",
-      "bidVolume": 194242300,
-      "offerVolume": 268764300,
+      "bidVolume": 383558700,
+      "offerVolume": 148527000,
       "count": 132
     },
     {
-      "sector": "Financials",
-      "bidVolume": 119492500,
-      "offerVolume": 41513400,
-      "count": 105
+      "sector": "Transportation & Logistic",
+      "bidVolume": 304779600,
+      "offerVolume": 29548000,
+      "count": 40
+    },
+    {
+      "sector": "Properties & Real Estate",
+      "bidVolume": 279754000,
+      "offerVolume": 162123500,
+      "count": 92
     },
     {
       "sector": "Consumer Cyclicals",
-      "bidVolume": 108934500,
-      "offerVolume": 136331100,
+      "bidVolume": 177060000,
+      "offerVolume": 118131900,
       "count": 161
     },
     {
+      "sector": "Financials",
+      "bidVolume": 128943900,
+      "offerVolume": 50541500,
+      "count": 105
+    },
+    {
       "sector": "Energy",
-      "bidVolume": 106316200,
-      "offerVolume": 59004500,
+      "bidVolume": 76638100,
+      "offerVolume": 43395100,
       "count": 91
     },
     {
       "sector": "Industrials",
-      "bidVolume": 69027500,
-      "offerVolume": 76535300,
+      "bidVolume": 55652600,
+      "offerVolume": 73020500,
       "count": 68
     },
     {
-      "sector": "Infrastructures",
-      "bidVolume": 56760000,
-      "offerVolume": 22488000,
-      "count": 69
-    },
-    {
       "sector": "Basic Materials",
-      "bidVolume": 51105000,
-      "offerVolume": 34228300,
+      "bidVolume": 44202200,
+      "offerVolume": 56128300,
       "count": 110
     },
     {
+      "sector": "Infrastructures",
+      "bidVolume": 39184000,
+      "offerVolume": 22561900,
+      "count": 69
+    },
+    {
       "sector": "Healthcare",
-      "bidVolume": 3473800,
-      "offerVolume": 2241500,
+      "bidVolume": 6473100,
+      "offerVolume": 2146300,
       "count": 41
     },
     {
       "sector": "No Sector",
-      "bidVolume": 107600,
-      "offerVolume": 8700,
+      "bidVolume": 43900,
+      "offerVolume": 33600,
       "count": 1
     },
     {
       "sector": "CONSUMER GOODS INDUSTRY",
-      "bidVolume": 18600,
-      "offerVolume": 85900,
+      "bidVolume": 16100,
+      "offerVolume": 1500,
       "count": 1
     }
   ]

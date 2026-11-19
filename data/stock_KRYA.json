@@ -26,10 +26,10 @@
     "quantRating": 40
   },
   "momentum": {
-    "week4PC": -4.545454545454546,
-    "week13PC": -33.33333333333333,
-    "week26PC": -35.38461538461539,
-    "week52PC": -78.46153846153847
+    "week4PC": -12.76595744680851,
+    "week13PC": -36.92307692307693,
+    "week26PC": -35.9375,
+    "week52PC": -78.64583333333334
   },
   "management": {
     "directors": [],
@@ -38,26 +38,26 @@
     "subsidiaries": []
   },
   "quote": {
-    "price": 41.0,
-    "previous": 42.0,
-    "change": -1.0,
-    "percent": -2.38,
-    "volume": 16587700,
-    "turnover": 701075200.0,
-    "frequency": 488,
+    "price": 42.0,
+    "previous": 41.0,
+    "change": 1.0,
+    "percent": 2.44,
+    "volume": 3743600,
+    "turnover": 152444400.0,
+    "frequency": 1147,
     "support": 43,
     "resistance": 46,
     "marketCap": 71549569382.0
   },
   "bandarmologi": {
-    "foreignNet1D": -615500,
-    "foreignNet1W": -1842900,
-    "foreignNet1M": -2832100,
-    "foreignNet60D": -5616700,
-    "foreignNet3M": 10565900,
-    "bidVolume": 2142200,
-    "offerVolume": 1389800,
-    "bidOfferRatio": 1.54,
+    "foreignNet1D": 66700,
+    "foreignNet1W": -374800,
+    "foreignNet1M": -2724600,
+    "foreignNet60D": -5631000,
+    "foreignNet3M": 11772600,
+    "bidVolume": 9380600,
+    "offerVolume": 1600100,
+    "bidOfferRatio": 5.86,
     "negoVolume": 0,
     "negoValue": 0.0
   },
@@ -79,25 +79,6 @@
   "chart": {
     "candles": [
       {
-        "date": 1779987600000,
-        "dateStr": "29 May 2026",
-        "open": 61.0,
-        "high": 64.0,
-        "low": 59.0,
-        "close": 62.0,
-        "volume": 33335700,
-        "value": 2048375800.0,
-        "foreignNet": -1140000,
-        "bidVolume": 3683500,
-        "offerVolume": 537800,
-        "nonRegularVolume": 0,
-        "nonRegularValue": 0.0,
-        "ma20": 62,
-        "ma50": 62,
-        "rsi": 50.0,
-        "rsiSector": 50.0
-      },
-      {
         "date": 1780333200000,
         "dateStr": "02 Jun 2026",
         "open": 62.0,
@@ -111,8 +92,8 @@
         "offerVolume": 216300,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 61,
-        "ma50": 61,
+        "ma20": 60,
+        "ma50": 60,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -130,8 +111,8 @@
         "offerVolume": 207200,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 59,
-        "ma50": 59,
+        "ma20": 57,
+        "ma50": 57,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -149,8 +130,8 @@
         "offerVolume": 1471000,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 57,
-        "ma50": 57,
+        "ma20": 56,
+        "ma50": 56,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -168,8 +149,8 @@
         "offerVolume": 4773900,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 57,
-        "ma50": 57,
+        "ma20": 56,
+        "ma50": 56,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -187,8 +168,8 @@
         "offerVolume": 708300,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 56,
-        "ma50": 56,
+        "ma20": 55,
+        "ma50": 55,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -206,8 +187,8 @@
         "offerVolume": 217200,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 56,
-        "ma50": 56,
+        "ma20": 55,
+        "ma50": 55,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -225,8 +206,8 @@
         "offerVolume": 2654100,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 56,
-        "ma50": 56,
+        "ma20": 55,
+        "ma50": 55,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -244,8 +225,8 @@
         "offerVolume": 1595500,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 56,
-        "ma50": 56,
+        "ma20": 55,
+        "ma50": 55,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -282,8 +263,8 @@
         "offerVolume": 987500,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 57,
-        "ma50": 57,
+        "ma20": 56,
+        "ma50": 56,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -339,8 +320,8 @@
         "offerVolume": 2164900,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 58,
-        "ma50": 58,
+        "ma20": 57,
+        "ma50": 57,
         "rsi": 45.45,
         "rsiSector": 47.95
       },
@@ -358,8 +339,8 @@
         "offerVolume": 1770500,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 58,
-        "ma50": 58,
+        "ma20": 57,
+        "ma50": 57,
         "rsi": 44.12,
         "rsiSector": 47.35
       },
@@ -453,8 +434,8 @@
         "offerVolume": 1218600,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 57,
-        "ma50": 57,
+        "ma20": 56,
+        "ma50": 56,
         "rsi": 55.56,
         "rsiSector": 52.5
       },
@@ -644,7 +625,7 @@
         "nonRegularVolume": 2500,
         "nonRegularValue": 145000.0,
         "ma20": 57,
-        "ma50": 57,
+        "ma50": 56,
         "rsi": 58.33,
         "rsiSector": 53.75
       },
@@ -663,7 +644,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 57,
-        "ma50": 57,
+        "ma50": 56,
         "rsi": 63.64,
         "rsiSector": 56.14
       },
@@ -891,7 +872,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 59,
-        "ma50": 58,
+        "ma50": 57,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -910,7 +891,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 59,
-        "ma50": 58,
+        "ma50": 57,
         "rsi": 44.44,
         "rsiSector": 47.5
       },
@@ -2357,6 +2338,25 @@
         "ma50": 50,
         "rsi": 41.67,
         "rsiSector": 46.25
+      },
+      {
+        "date": 1795021200000,
+        "dateStr": "19 Nov 2026",
+        "open": 42.0,
+        "high": 42.0,
+        "low": 40.0,
+        "close": 42.0,
+        "volume": 3743600,
+        "value": 152444400.0,
+        "foreignNet": 66700,
+        "bidVolume": 9380600,
+        "offerVolume": 1600100,
+        "nonRegularVolume": 0,
+        "nonRegularValue": 0.0,
+        "ma20": 43,
+        "ma50": 49,
+        "rsi": 46.15,
+        "rsiSector": 48.27
       }
     ]
   }

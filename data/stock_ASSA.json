@@ -26,10 +26,10 @@
     "quantRating": 37
   },
   "momentum": {
-    "week4PC": -5.142857142857142,
-    "week13PC": -22.790697674418606,
-    "week26PC": -29.361702127659573,
-    "week52PC": -55.13513513513514
+    "week4PC": -8.679245283018867,
+    "week13PC": -24.96124031007752,
+    "week26PC": -29.855072463768117,
+    "week52PC": -55.18518518518518
   },
   "management": {
     "directors": [],
@@ -39,25 +39,25 @@
   },
   "quote": {
     "price": 484.0,
-    "previous": 498.0,
-    "change": -14.0,
-    "percent": -2.81,
-    "volume": 5240400,
-    "turnover": 2569028200.0,
-    "frequency": 1732,
-    "support": 506,
+    "previous": 484.0,
+    "change": 0.0,
+    "percent": 0.0,
+    "volume": 3684300,
+    "turnover": 1790988400.0,
+    "frequency": 596,
+    "support": 503,
     "resistance": 525,
     "marketCap": 1793892833262.0
   },
   "bandarmologi": {
-    "foreignNet1D": -2544400,
-    "foreignNet1W": -6812400,
-    "foreignNet1M": -20778400,
-    "foreignNet60D": -123273800,
-    "foreignNet3M": -231484000,
-    "bidVolume": 409200,
-    "offerVolume": 35900,
-    "bidOfferRatio": 11.4,
+    "foreignNet1D": -1046900,
+    "foreignNet1W": -7903100,
+    "foreignNet1M": -18622700,
+    "foreignNet60D": -124681600,
+    "foreignNet3M": -229935900,
+    "bidVolume": 2400,
+    "offerVolume": 19300,
+    "bidOfferRatio": 0.12,
     "negoVolume": 0,
     "negoValue": 0.0
   },
@@ -77,6 +77,15 @@
   },
   "announcements": [
     {
+      "id": "20261119163439-060/ASSA-CORSEC/XI/2026_id-id",
+      "number": "060/ASSA-CORSEC/XI/2026",
+      "title": "Keterbukaan Informasi",
+      "subject": "Keterbukaan Informasi",
+      "type": "STOCK",
+      "date": "1795080879000",
+      "attachments": []
+    },
+    {
       "id": "20260824101850-044/ASSA-CORSEC/VIII/2026_id-id",
       "number": "044/ASSA-CORSEC/VIII/2026",
       "title": "Keterbukaan Informasi",
@@ -88,25 +97,6 @@
   ],
   "chart": {
     "candles": [
-      {
-        "date": 1779987600000,
-        "dateStr": "29 May 2026",
-        "open": 660.0,
-        "high": 660.0,
-        "low": 605.0,
-        "close": 640.0,
-        "volume": 22073800,
-        "value": 13976666500.0,
-        "foreignNet": -2595000,
-        "bidVolume": 12500,
-        "offerVolume": 2106200,
-        "nonRegularVolume": 0,
-        "nonRegularValue": 0.0,
-        "ma20": 640,
-        "ma50": 640,
-        "rsi": 50.0,
-        "rsiSector": 50.0
-      },
       {
         "date": 1780333200000,
         "dateStr": "02 Jun 2026",
@@ -121,8 +111,8 @@
         "offerVolume": 11000,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 632,
-        "ma50": 632,
+        "ma20": 625,
+        "ma50": 625,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -140,8 +130,8 @@
         "offerVolume": 59300,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 622,
-        "ma50": 622,
+        "ma20": 612,
+        "ma50": 612,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -159,8 +149,8 @@
         "offerVolume": 302200,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 614,
-        "ma50": 614,
+        "ma20": 605,
+        "ma50": 605,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -178,8 +168,8 @@
         "offerVolume": 480000,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 601,
-        "ma50": 601,
+        "ma20": 591,
+        "ma50": 591,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -197,8 +187,8 @@
         "offerVolume": 124400,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 588,
-        "ma50": 588,
+        "ma20": 577,
+        "ma50": 577,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -216,8 +206,8 @@
         "offerVolume": 51000,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 584,
-        "ma50": 584,
+        "ma20": 575,
+        "ma50": 575,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -235,8 +225,8 @@
         "offerVolume": 500,
         "nonRegularVolume": 87700,
         "nonRegularValue": 49989000.0,
-        "ma20": 586,
-        "ma50": 586,
+        "ma20": 579,
+        "ma50": 579,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -254,8 +244,8 @@
         "offerVolume": 281900,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 587,
-        "ma50": 587,
+        "ma20": 581,
+        "ma50": 581,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -273,8 +263,8 @@
         "offerVolume": 9800,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 592,
-        "ma50": 592,
+        "ma20": 587,
+        "ma50": 587,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -292,8 +282,8 @@
         "offerVolume": 50000,
         "nonRegularVolume": 76900,
         "nonRegularValue": 49985000.0,
-        "ma20": 598,
-        "ma50": 598,
+        "ma20": 594,
+        "ma50": 594,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -311,8 +301,8 @@
         "offerVolume": 135700,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 603,
-        "ma50": 603,
+        "ma20": 600,
+        "ma50": 600,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -330,8 +320,8 @@
         "offerVolume": 23700,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 607,
-        "ma50": 607,
+        "ma20": 604,
+        "ma50": 604,
         "rsi": 46.77,
         "rsiSector": 48.55
       },
@@ -349,8 +339,8 @@
         "offerVolume": 74600,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 609,
-        "ma50": 609,
+        "ma20": 607,
+        "ma50": 607,
         "rsi": 48.33,
         "rsiSector": 49.25
       },
@@ -368,8 +358,8 @@
         "offerVolume": 3600,
         "nonRegularVolume": 100,
         "nonRegularValue": 190000.0,
-        "ma20": 611,
-        "ma50": 611,
+        "ma20": 609,
+        "ma50": 609,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -387,8 +377,8 @@
         "offerVolume": 71600,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 613,
-        "ma50": 613,
+        "ma20": 611,
+        "ma50": 611,
         "rsi": 53.57,
         "rsiSector": 51.61
       },
@@ -406,8 +396,8 @@
         "offerVolume": 40700,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 614,
-        "ma50": 614,
+        "ma20": 612,
+        "ma50": 612,
         "rsi": 53.57,
         "rsiSector": 51.61
       },
@@ -425,8 +415,8 @@
         "offerVolume": 10100,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 615,
-        "ma50": 615,
+        "ma20": 614,
+        "ma50": 614,
         "rsi": 58.62,
         "rsiSector": 53.88
       },
@@ -444,8 +434,8 @@
         "offerVolume": 71900,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 615,
-        "ma50": 615,
+        "ma20": 613,
+        "ma50": 613,
         "rsi": 60.71,
         "rsiSector": 54.82
       },
@@ -463,8 +453,8 @@
         "offerVolume": 112500,
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
-        "ma20": 614,
-        "ma50": 614,
+        "ma20": 613,
+        "ma50": 613,
         "rsi": 65.38,
         "rsiSector": 56.92
       },
@@ -483,7 +473,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 611,
-        "ma50": 612,
+        "ma50": 611,
         "rsi": 53.19,
         "rsiSector": 51.44
       },
@@ -502,7 +492,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 609,
-        "ma50": 611,
+        "ma50": 610,
         "rsi": 46.34,
         "rsiSector": 48.35
       },
@@ -521,7 +511,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 608,
-        "ma50": 610,
+        "ma50": 608,
         "rsi": 46.34,
         "rsiSector": 48.35
       },
@@ -540,7 +530,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 608,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 37.14,
         "rsiSector": 44.21
       },
@@ -559,7 +549,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 611,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 33.33,
         "rsiSector": 42.5
       },
@@ -578,7 +568,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 614,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 32.35,
         "rsiSector": 42.06
       },
@@ -597,7 +587,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 615,
-        "ma50": 607,
+        "ma50": 606,
         "rsi": 28.95,
         "rsiSector": 40.53
       },
@@ -616,7 +606,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 614,
-        "ma50": 606,
+        "ma50": 605,
         "rsi": 34.21,
         "rsiSector": 42.89
       },
@@ -635,7 +625,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 613,
-        "ma50": 605,
+        "ma50": 604,
         "rsi": 35.9,
         "rsiSector": 43.66
       },
@@ -654,7 +644,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 612,
-        "ma50": 605,
+        "ma50": 604,
         "rsi": 40.48,
         "rsiSector": 45.72
       },
@@ -673,7 +663,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 610,
-        "ma50": 605,
+        "ma50": 604,
         "rsi": 48.72,
         "rsiSector": 49.42
       },
@@ -692,7 +682,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 608,
-        "ma50": 606,
+        "ma50": 605,
         "rsi": 45.95,
         "rsiSector": 48.18
       },
@@ -711,7 +701,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 607,
-        "ma50": 607,
+        "ma50": 606,
         "rsi": 54.84,
         "rsiSector": 52.18
       },
@@ -730,7 +720,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 606,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 61.29,
         "rsiSector": 55.08
       },
@@ -749,7 +739,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 606,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 70.37,
         "rsiSector": 59.17
       },
@@ -787,7 +777,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 604,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 62.07,
         "rsiSector": 55.43
       },
@@ -806,7 +796,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 604,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 62.07,
         "rsiSector": 55.43
       },
@@ -825,7 +815,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 604,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 51.72,
         "rsiSector": 50.77
       },
@@ -844,7 +834,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 603,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 48.39,
         "rsiSector": 49.28
       },
@@ -863,7 +853,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 604,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 57.69,
         "rsiSector": 53.46
       },
@@ -882,7 +872,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 604,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 52.0,
         "rsiSector": 50.9
       },
@@ -939,7 +929,7 @@
         "nonRegularVolume": 1210000,
         "nonRegularValue": 738100000.0,
         "ma20": 605,
-        "ma50": 607,
+        "ma50": 606,
         "rsi": 44.0,
         "rsiSector": 47.3
       },
@@ -958,7 +948,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 607,
-        "ma50": 608,
+        "ma50": 607,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -996,7 +986,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 613,
-        "ma50": 609,
+        "ma50": 608,
         "rsi": 50.0,
         "rsiSector": 50.0
       },
@@ -1034,7 +1024,7 @@
         "nonRegularVolume": 0,
         "nonRegularValue": 0.0,
         "ma20": 617,
-        "ma50": 610,
+        "ma50": 609,
         "rsi": 55.17,
         "rsiSector": 52.33
       },
@@ -2367,6 +2357,25 @@
         "ma50": 548,
         "rsi": 44.37,
         "rsiSector": 47.47
+      },
+      {
+        "date": 1795021200000,
+        "dateStr": "19 Nov 2026",
+        "open": 482.0,
+        "high": 492.0,
+        "low": 480.0,
+        "close": 484.0,
+        "volume": 3684300,
+        "value": 1790988400.0,
+        "foreignNet": -1046900,
+        "bidVolume": 2400,
+        "offerVolume": 19300,
+        "nonRegularVolume": 0,
+        "nonRegularValue": 0.0,
+        "ma20": 503,
+        "ma50": 546,
+        "rsi": 49.22,
+        "rsiSector": 49.65
       }
     ]
   }
